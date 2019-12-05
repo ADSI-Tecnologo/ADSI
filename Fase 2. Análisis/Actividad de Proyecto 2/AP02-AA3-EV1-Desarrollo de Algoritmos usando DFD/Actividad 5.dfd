@@ -1,0 +1,144 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+p
+1
+1
+1
+n
+1
+1
+9
+1
+4
+n!=0
+4
+1
+19
+"ingresa un numero"
+5
+1
+1
+n
+7
+0
+1
+4
+n<10
+7
+0
+1
+13
+n>9 and n<100
+7
+0
+1
+16
+n >99 and n<1000
+7
+0
+1
+17
+n>999 and n<10000
+13
+6
+3
+1
+a
+8
+n mod 10
+1
+b
+26
+((n-(n mod 10))/10) mod 10
+1
+r
+3
+n/n
+6
+2
+1
+t
+11
+a*10/10*3+1
+2
+re
+7
+a+b+r+t
+4
+1
+26
+"El número ingresado es",n
+4
+1
+31
+"La suma de los digitos es:",re
+13
+13
+6
+3
+1
+a
+8
+n mod 10
+1
+b
+26
+((n-(n mod 10))/10) mod 10
+1
+r
+3
+n/n
+6
+1
+2
+re
+5
+a+b+r
+4
+1
+26
+"El número ingresado es",n
+4
+1
+31
+"La suma de los digitos es:",re
+13
+13
+6
+3
+1
+a
+8
+n mod 10
+1
+b
+17
+(n-(n mod 10))/10
+1
+r
+3
+a+b
+4
+1
+26
+"El número ingresado es",n
+4
+1
+30
+"La suma de los digitos es:",r
+13
+13
+4
+1
+26
+"El número ingresado es",p
+13
+11
+1

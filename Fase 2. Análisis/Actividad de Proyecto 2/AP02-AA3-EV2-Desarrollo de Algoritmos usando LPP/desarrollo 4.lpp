@@ -1,0 +1,15 @@
+entero minutos,mm,costo
+caracter detener
+
+inicio
+escriba "ingrese la cantidad de minutos consumidos"
+lea minutos
+si minutos <=3 entonces
+escriba "total a cancelar: $200 "
+sino
+mm <-minutos-3
+costo<-(mm*30)+200
+escriba "Total a cancelar: ",costo
+fin si
+lea detener 
+fin

@@ -1,0 +1,61 @@
+
+real m,h
+entero edad, hombres, mujeres, total , edadm, edadh, joven, sexo
+caracter detener
+
+
+inicio
+	
+	hombres<-0
+	mujeres<-0
+	edadm<-0
+	edadh<-0
+	joven<-90
+	
+	mientras (edad>0) haga
+	
+	si (edad<18)entonces
+	escriba "Los menores de edad no pueden entrar a la fiesta"
+	llamar nueva_linea
+	sino
+	escriba "Escriba 1 si el invitado es mujer, o cualquier otro numero si es hombre"
+	lea sexo
+	
+	
+	si sexo=1 entonces
+	mujeres<-mujeres+1
+	edadm<-edadm+edad
+	sino
+	hombres<-hombres+1
+	edadh<-edadh+edad
+	fin si
+	si (edad<joven) entonces
+	joven<- edad
+	fin si
+	fin si
+	
+	escriba "Ingrese la edad de la persona: "
+	lea edad
+	llamar nueva_linea
+	
+	fin mientras
+	
+	total<-mujeres+hombres
+	h<-edadh/hombres
+	m<-edadm/mujeres
+	
+	
+	escriba "El total de asistentes a la fiesta fue: ", total
+	llamar nueva_linea
+	escriba "El total de hombres fue: ",hombres
+	llamar nueva_linea
+	escriba "El total de mujeres fue: ",mujeres
+	llamar nueva_linea
+	escriba "El promedio de las edades de los hombres fue: ",h
+	llamar nueva_linea
+	escriba "El promedio de las edades de mujeres fue: ",m
+	llamar nueva_linea
+	escriba "La edad de la persona mas joen fue: ",joven
+	
+	lea detener
+fin

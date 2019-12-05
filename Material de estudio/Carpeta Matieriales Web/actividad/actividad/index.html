@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>OA Introducción al diseño web usando Lenguaje de HTML</title>
+  <link rel="stylesheet" href="js/toogle/css/toggles.css">
+  <link rel="stylesheet" href="js/toogle/css/themes/toggles-light.css">
+   <!--link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"-->
+  <link rel="stylesheet" href="css/cuestionario.css">
+</head>
+<body>
+
+  <div class="encabezado container">
+    <div class="encabezado__titulo">
+      <h1>ACTIVIDAD DIDÁCTICA</h1>
+    </div>
+    <div class="encabezado__audio">
+        <span>¿Audio?</span>
+       <div class="toogle-container">
+          <div class="toggle toggle-light"></div>
+        </div>
+    </div>
+  </div>
+
+  <div id="contenedor" class="box_round">
+
+
+
+
+    <div id="personaje" class="default"></div>
+
+    <div id='bt_inicio'></div>
+
+    <div id='preguntas'><!-- div preguntas -->
+
+      <!--  cuestionario -->
+
+      <div id='p1' class="opcion"><!-- p1 -->
+        <div class='wrap'>
+
+          <div class='question'>
+            <p>Las tecnologías básicas para el desarrollo de aplicaciones web son:</p>
+          </div>
+
+          <div class='opciones norandom'>
+            <div data-preg='p1' data-valor='false' class='respuesta uno'>
+              <p> Jquery, AngularJS y Javascript.</p>
+            </div>
+            <div data-preg='p1' data-valor='true' class='respuesta dos large'>
+              <p> HTML, CSS y Javascript.</p>
+            </div>
+            <div data-preg='p1' data-valor='false' class='respuesta tres'>
+              <p> HTML, Bootstrap y Mysql.</p>
+            </div>
+            <div data-preg='p1' data-valor='false' class='respuesta cuatro'>
+              <p> CSS, Javascript y PHP.</p>
+            </div>
+          </div>
+
+        </div>
+      </div><!-- /p1 -->
+
+
+      <div id='p2' class="opcion"><!-- p2 -->
+        <div class='wrap'>
+          <div class='question'><p> Javascript es un lenguaje que permite realizar:</p></div>
+          <div class='opciones norandom'>
+            <div data-preg='p2' data-valor='false' class='respuesta uno'><p> Programación del lado del servidor</p></div>
+            <div data-preg='p2' data-valor='true' class='respuesta dos'><p> Programación del lado del cliente</p></div>
+            <div data-preg='p2' data-valor='false' class='respuesta tres'><p> Tanto programación del lado del servidor y del lado del cliente</p></div>
+            <div data-preg='p2' data-valor='false' class='respuesta cuatro'><p> Ninguna de las anteriores.</p></div>
+          </div>
+        </div>
+      </div><!-- /p2 -->
+
+      <div id='p3' class="opcion"><!-- p3 -->
+        <div class='wrap'>
+          <div class='question'><p>  La interactividad que presentan las páginas web es provista por la siguiente tecnología:</p></div>
+          <div class='opciones norandom'>
+            <div data-preg='p3' data-valor='false' class='respuesta uno'><p> HTML</p></div>
+            <div data-preg='p3' data-valor='false' class='respuesta dos'><p> CSS</p></div>
+            <div data-preg='p3' data-valor='true' class='respuesta tres'><p> Javascript</p></div>
+            <div data-preg='p3' data-valor='false' class='respuesta cuatro large'><p> PHP</p></div>
+          </div>
+        </div>
+      </div><!-- /p3 -->
+
+      <div id='p4' class="opcion"><!-- p4 -->
+        <div class='wrap'>
+          <div class='question'><p> Las siguientes son novedades en la versión 5 del lenguaje HTML:</p></div>
+          <div class='opciones norandom'>
+            <div data-preg='p4' data-valor='false' class='respuesta uno large'><p>  Formularios, Tablas y videos</p></div>
+            <div data-preg='p4' data-valor='false' class='respuesta dos'><p>  Tablas, video y almacenamiento local</p></div>
+            <div data-preg='p4' data-valor='false' class='respuesta tres large'><p> Formularios, Canvas y tablas</p></div>
+            <div data-preg='p4' data-valor='true' class='respuesta cuatro large'><p>   Videos, Canvas y almacenamiento local</p></div>
+          </div>
+        </div>
+      </div><!-- /p4 -->
+
+      <div id='p5' class="opcion"><!-- p5 -->
+        <div class='wrap'>
+          <div class='question'><p> La cualidad que tienen las reglas CSS de aplicar los mismos estilos a los nodos hijos se llama:</p></div>
+          <div class='opciones norandom'>
+            <div data-preg='p5' data-valor='false' class='respuesta uno large'><p> Estilos en cascada</p></div>
+            <div data-preg='p5' data-valor='true' class='respuesta dos large'><p> Herencia de estilo</p></div>
+            <div data-preg='p5' data-valor='false' class='respuesta tres large'><p>  Polimorfismo de estilo</p></div>
+            <div data-preg='p5' data-valor='false' class='respuesta cuatro large'><p> Estilos subrogados</p></div>
+          </div>
+        </div>
+      </div><!-- /p5 -->
+
+		<div id='p6' class="opcion"><!-- p6 -->
+		<div class='wrap'>
+		  <div class='question'><p> De las siguientes sentencias CSS cuál hacen referencia a una pseudo-clase:</p></div>
+		  <div class='opciones norandom'>
+		    <div data-preg='p6' data-valor='false' class='respuesta uno large'><p> p {color: blue; }</p></div>
+		    <div data-preg='p6' data-valor='true' class='respuesta dos large'><p> p:hover {color: green; }</p></div>
+		    <div data-preg='p6' data-valor='false' class='respuesta tres large'><p>  .estilo1 { color: red; }</p></div>
+		    <div data-preg='p6' data-valor='false' class='respuesta cuatro large'><p> #nombre1 { text-align: center; }</p></div>
+		  </div>
+		</div>
+		</div><!-- /p6 -->
+
+		<div id='p7' class="opcion"><!-- p7 -->
+		<div class='wrap'>
+		<div class='question'><p> De las siguientes sentencias CSS cuál hace referencia a una clase:</p></div>
+		<div class='opciones norandom'>
+			<div data-preg='p7' data-valor='false' class='respuesta uno large'><p> p {color: blue; }</p></div>
+		    <div data-preg='p7' data-valor='false' class='respuesta dos large'><p> p:hover {color: green; }</p></div>
+		    <div data-preg='p7' data-valor='true' class='respuesta tres large'><p>  .estilo1 { color: red; }</p></div>
+		    <div data-preg='p7' data-valor='false' class='respuesta cuatro large'><p> #nombre1 { text-align: center; }</p></div>
+		</div>
+		</div>
+		</div><!-- /p7 -->
+
+		<div id='p8' class="opcion"><!-- p8 -->
+		<div class='wrap'>
+		<div class='question'><p> De las siguientes sentencias CSS cuál hace referencia a un identificador:</p></div>
+		<div class='opciones norandom'>
+		  <div data-preg='p8' data-valor='false' class='respuesta uno large'><p> p {color: blue; }</p></div>
+		  <div data-preg='p8' data-valor='false' class='respuesta dos large'><p> p:hover {color: green; }</p></div>
+		  <div data-preg='p8' data-valor='false' class='respuesta tres large'><p>  .estilo1 { color: red; }</p></div>
+		  <div data-preg='p8' data-valor='true' class='respuesta cuatro large'><p> #nombre1 { text-align: center; }</p></div>
+		</div>
+		</div>
+		</div><!-- /p8 -->
+      <!--  fin de cuestionario -->
+
+    </div><!-- fin preguntas -->
+
+    <!-- HISTORICO DE RESPUESTAS -->
+    <div id='cinta'>
+        <div class='c0 circulo normal'></div>
+        <div class='c1 circulo normal'></div>
+        <div class='c2 circulo normal'></div>
+        <div class='c3 circulo normal'></div>
+        <div class='c4 circulo normal'></div>
+		<div class='c5 circulo normal'></div>
+		<div class='c6 circulo normal'></div>
+		<div class='c7 circulo normal'></div>
+    </div>
+
+    <!-- SONIDOS -->
+    <div class='sonidos'>
+      <audio preload>
+        <source src='audios/screen-change.mp3' type='audio/mp3'>
+        <source src='audios/screen-change.ogg' type='audio/ogg'>
+      </audio>
+      <audio preload>
+        <source src='audios/success.mp3' type='audio/mp3'>
+        <source src='audios/success.mp3' type='audio/ogg'>
+      </audio>
+      <audio preload>
+        <source src='audios/fail.mp3' type='audio/mp3'>
+        <source src='audios/fail.ogg' type='audio/ogg'>
+      </audio>
+      <audio preload>
+        <source src='audios/end-game-success.mp3' type='audio/mp3'>
+        <source src='audios/end-game-success.ogg' type='audio/ogg'>
+      </audio>
+      <audio preload>
+        <source src='audios/end-game-fail.mp3' type='audio/mp3'>
+        <source src='audios/end-game-fail.ogg' type='audio/ogg'>
+      </audio>
+    </div>
+
+	<div id="resultados">
+		<div class="estadistica">
+			<div class="resultados circle">
+				<strong>90<i>%</i></strong>
+			</div>
+
+			<div class="estadistica__numero">0/8</div>
+
+			<div class="estadistica__mensaje">
+				<p>Lamento los pocos aciertos. ¡debes estudiar más!</p>
+			</div>
+
+			<div class="bt__jugar-de-nuevo"></div>
+		</div>
+	</div>
+
+  </div><!-- .contenedor -->
+
+  <form name="test" id="test"></form>
+
+  <script src="js/jquery-1.9.1.js" type="text/javascript"></script>
+  <script src="js/jquery-ui.js" type="text/javascript"></script>
+  <script src="js/toogle/toggles.min.js" type="text/javascript"></script>
+  <script src="js/plugins.js" type="text/javascript"></script>
+  <script src="js/cuestionario.js?v=3" charset="utf-8"></script>
+</body>
+</html>

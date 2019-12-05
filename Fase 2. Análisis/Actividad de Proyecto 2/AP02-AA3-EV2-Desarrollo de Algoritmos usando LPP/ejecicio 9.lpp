@@ -1,0 +1,77 @@
+/* Hacer un algoritmo que lea números en 2 arreglos de 5 posiciones.
+Como resultado se deben imprimir cada uno de los arreglos y en otro arreglo 
+calcular la suma de cada una de las posiciones*/
+
+
+arreglo[5] de entero a,b,suma
+entero i
+caracter detener
+
+procedimiento lecturadatos
+inicio 
+
+	para i<-1 hasta 5 haga
+			escriba "ingrese un numero para ser guardado en el arreglo A, en la posicion: ",i
+			lea a[i]
+	fin para
+	
+		para i<-1 hasta 5 haga
+			escriba "ingrese un numero para ser guardado en el arreglo B, en la posicion: ",i
+			lea b[i]
+		fin para
+fin
+
+
+procedimiento sumararreglos
+
+inicio
+		//sumar arreglos
+		para i<-1 hasta 5 haga
+			suma[i]<-a[i]+b[i]
+		fin para
+fin
+
+
+procedimiento mostrarresultados
+
+inicio
+		//arreglo a
+		escriba "DATOS DEL ARREGLO A"
+		llamar nueva_linea
+		para i<-1 hasta 5 haga
+		llamar nueva_linea
+			escriba a[i]," "
+		fin para
+		llamar nueva_linea
+		llamar nueva_linea
+		
+		
+		escriba "DATOS DEL ARREGLO B"
+		llamar nueva_linea
+		//arreglo b
+		para i<-1 hasta 5 haga
+			escriba b[i]," "
+		fin para
+		llamar nueva_linea
+		llamar nueva_linea
+		
+		escriba "DATOS DE ARREGLO SUMA"
+		//arreglo suma
+		llamar nueva_linea
+		llamar nueva_linea
+		para i<-1 hasta 5 haga
+			escriba suma[i]," "
+		fin para
+fin
+
+
+
+
+inicio
+		llamar lecturadatos
+		llamar sumararreglos
+		llamar mostrarresultados
+
+
+
+fin

@@ -1,0 +1,28 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+174
+una persona deposita hoy al Banco cierta cantidad de dinero, donde le reconocen un interés del 2% mensual, capitalizado mensualmente. ¿Cuál será el saldo al cabo de 5 años?
+
+4
+1
+27
+"Escriba el valor presente"
+5
+1
+2
+vp
+6
+1
+2
+vf
+16
+vp * (1+0.02)^60
+4
+1
+111
+"El valor presente es:",vp,                                   "El valor futuro que sera acabo de 5 años es:",vf
+1

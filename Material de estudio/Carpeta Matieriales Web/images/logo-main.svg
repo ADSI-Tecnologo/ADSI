@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Capa_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="778.484px"
+	 height="599.863px" viewBox="0 0 778.484 599.863" style="enable-background:new 0 0 778.484 599.863;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#E54F26;}
+	.st2{fill:#F16529;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:url(#SVGID_2_);}
+	.st5{fill:url(#SVGID_3_);}
+	.st6{fill:url(#SVGID_4_);}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="778.484" height="599.863" x="1425.258" y="550.568" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<polygon class="st0" points="464.669,599.863 305.677,599.863 61.189,158.314 176.684,0 613.731,0 700.157,203.957 "/>
+<g>
+	<polygon class="st1" points="713.023,0 754.16,71.247 681.913,196.383 568.532,0 	"/>
+	<polygon class="st1" points="773.043,599.863 659.665,403.48 546.283,599.863 	"/>
+	<polygon class="st1" points="497.637,599.863 752.562,158.314 776.89,200.45 546.286,599.863 	"/>
+	<polygon class="st2" points="448.978,599.863 754.156,71.272 778.484,113.409 497.627,599.863 	"/>
+</g>
+<g>
+	<polygon class="st1" points="65.46,0 24.324,71.247 96.571,196.383 209.952,0 	"/>
+	<polygon class="st1" points="5.441,599.863 118.819,403.48 232.201,599.863 	"/>
+	<polygon class="st1" points="280.847,599.863 25.922,158.314 1.594,200.45 232.198,599.863 	"/>
+	<polygon class="st2" points="329.506,599.863 24.328,71.272 0,113.409 280.857,599.863 	"/>
+</g>
+<radialGradient id="SVGID_1_" cx="67.1498" cy="124.2654" r="16" gradientTransform="matrix(0.866 -0.5 6.5 11.2583 -734.9077 -1108.9843)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#000000;stop-opacity:0.75"/>
+	<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+</radialGradient>
+<polygon class="st3" points="232.108,430.637 249.205,420.766 42.421,62.605 25.324,72.476 "/>
+<radialGradient id="SVGID_2_" cx="-289.6377" cy="209.8025" r="16" gradientTransform="matrix(-0.866 -0.5 -6.5 11.2583 1760.4397 -2250.3823)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#000000;stop-opacity:0.75"/>
+	<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+</radialGradient>
+<polygon class="st4" points="546.42,430.637 529.323,420.766 736.107,62.605 753.204,72.476 "/>
+<radialGradient id="SVGID_3_" cx="-86.1231" cy="264.8487" r="8.3999" gradientTransform="matrix(0.866 0.5 6.5 -11.2583 -1040.071 3519.9319)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#000000;stop-opacity:0.75"/>
+	<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+</radialGradient>
+<polygon class="st5" points="659.957,403.676 668.933,408.858 560.373,596.889 551.397,591.707 "/>
+<radialGradient id="SVGID_4_" cx="-101.313" cy="256.0788" r="8.3999" gradientTransform="matrix(-0.866 0.5 -6.5 -11.2583 1748.7979 3428.7927)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#000000;stop-opacity:0.75"/>
+	<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+</radialGradient>
+<polygon class="st6" points="118.929,403.676 109.953,408.858 218.513,596.889 227.489,591.707 "/>
+<polygon class="st1" points="372.64,0 389.242,16.602 405.844,0 "/>
+</svg>

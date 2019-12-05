@@ -1,0 +1,39 @@
+/* hacer un algoritmo que lea 5 números enteros,
+como resultado se deben imprimir la suma de los
+numeros ingresados, la cantidad de números pares
+e impares ingresados. */
+
+entero numero, suma, impar, par, residuo,i
+caracter detener
+
+inicio
+	//inicio de variables
+	
+	suma<-0
+	impar<-0
+	par<-0
+	
+	para i<-1 hasta 5 haga
+	escriba "Ingrese un numero: "
+	lea numero
+	suma <-suma+numero
+	// ahora hay que averiguar si el numero es par o impar
+	residuo<-numero mod 2
+	
+	si (residuo =0) entonces //quiere deir que es par
+	 	par<- par +1
+	 	sino//impar
+	 	impar<-impar+1
+	fin si
+	fin para
+	//imprimir los resultados
+	escriba "La suma de los numeros ingresados son: ",suma
+	llamar nueva_linea 
+	escriba "El numero impar es: ",impar
+	llamar nueva_linea 
+	escriba "El numero de pares es ",par
+	lea detener
+	
+
+
+fin

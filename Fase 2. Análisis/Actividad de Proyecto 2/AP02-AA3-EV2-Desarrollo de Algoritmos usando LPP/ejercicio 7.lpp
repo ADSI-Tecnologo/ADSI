@@ -1,0 +1,46 @@
+/* Hacer un algoritmo que calcule el área de un triangulo. 
+Para ello el algoritmo debe crear una función
+que reciba como parámetros de altura y base 
+del triangulo y como resultado retorne el área.
+Al finalizar se debe imprimir el área del triangulo*/
+
+
+real area, base, altura
+caracter detener
+
+
+
+funcion calculararea(real base, real altura):real
+
+real resultado
+inicio 
+	resultado<-base*altura /2
+	
+	retorne resultado
+	
+	
+fin
+
+procedimiento mostrarresultados (real area)
+inicio
+	escriba "El area del triangulo es: ",area
+	lea detener
+fin
+
+
+
+inicio 
+	escriba "ingrese la base del triangulo: "
+	lea base
+	escriba "ingrese la altura del triangulo: "
+	lea altura
+	
+	
+	
+	area<-calculararea(base,altura)
+	
+	//imprimir los resultados
+	
+	llamar mostrarresultados(area)
+
+fin

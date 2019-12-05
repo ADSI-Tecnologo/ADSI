@@ -1,0 +1,21 @@
+/*hacer un algoritmo que imprima los primeros 20 términos de la siguiente serie:
+
+?
+
+1, 3, 6, 10, 15, 21, 28,……..*/
+
+
+entero n, i
+
+
+inicio
+
+		i<-1
+		n<-1
+		
+		mientras i<=20 haga
+		escriba n,","
+		i<-i+1
+		n<-n+i
+		fin mientras		
+fin

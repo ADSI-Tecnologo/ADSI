@@ -1,0 +1,51 @@
+entero cantidad ,nota,m50,e50y69,e70y79,m80
+caracter detener
+inicio
+	m50<-0
+	e50y69<-0
+	e70y79<-0
+	m80<-0
+	cantidad<-1
+	
+	mientras cantidad<=10 haga
+	escriba "Ingrese la calificacion del estudiante: ",cantidad
+	escriba " "
+	lea nota
+	
+	mientras (1>nota)o (nota>100)haga
+	escriba "Calificacion no valida"
+	llamar nueva_linea
+	escriba "ingrese la calificacion del estudiante: ",cantidad
+	escriba " "
+	lea nota
+	fin mientras
+	
+	si nota <50 entonces
+	m50<-m50+1
+	sino
+	si nota<70 entonces
+	e50y69<-e50y69+1
+	sino
+	si nota<80 entonces
+	e70y79<-e70y79+1
+	sino
+	m80<-m80+1
+	fin si
+	fin si
+	fin si
+	cantidad<-cantidad+1
+	llamar nueva_linea 
+	fin mientras
+	
+	escriba "cantidad de estudiantes con nota menor a 50: ",m50
+	llamar nueva_linea
+	escriba "cantidad de estudiantees con nota entre 50 y 69: ",e50y69
+	llamar nueva_linea
+	escriba "cantidad de estudiantes con nota entre 70 y 79: ",e70y79
+	llamar nueva_linea
+	escriba "cantidad de estudiantes con nota igual o mayor a 80: ",m80
+	llamar nueva_linea
+	
+	lea detener
+	fin
+	

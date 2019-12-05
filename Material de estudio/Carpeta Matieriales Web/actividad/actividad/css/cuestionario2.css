@@ -1,0 +1,419 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+
+* {
+  box-sizing: border-box;
+}
+html {
+background: #B6B3B3;
+height: 100%;
+}
+
+body {
+  /*background: #04AD36;*/
+  font-family: 'Droid Sans', sans-serif;
+}
+
+/**********************************************************/
+.box_round {
+  -webkit-border-radius: 12px; /* Safari 3-4, iOS 1-3.2, Android ≤1.6 */
+          border-radius: 12px; /* Opera 10.5, IE9+, Safari 5, Chrome, Firefox 4+, iOS 4, Android 2.1+ */
+
+  /* useful if you don't want a bg color from leaking outside the border: */
+  -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
+}
+/**********************************************************/
+.clear { clear: both;}
+
+.container {
+  width: 1100px;
+  margin: 0 auto; }
+
+.encabezado {
+    position: absolute;
+    top:40px; right:12px;
+      height: 60px;
+ }
+
+.encabezado__titulo {
+  float: left; }
+  .encabezado__titulo h1 {
+    font: 700 22px/1.4em 'Droid Sans', Helvetica, sans-serif;
+    letter-spacing: 3px;
+    margin-top: 20px;
+    color: #333; }
+
+.encabezado__audio {
+    }
+  .encabezado__audio span {
+    font-size: 13px;
+    color: #fff;
+    font-weight: 300;
+    letter-spacing: 0px; }
+
+.toogle-container {
+  display: inline-block;
+  height: 70px;
+  width: 105px;
+  position: relative;
+  top: 12px;
+}
+
+  .right span {
+      font-size: 14px;
+      color:#fff;
+  }
+
+.toggle {
+  height: 30px;
+  margin: 5px auto;
+  width: 70px;
+}
+.toggle-on.active {
+  text-indent: 16px !important;
+}
+.toggle-off.active {
+  text-indent: 27px !important;
+}
+
+
+h1 {
+font: 900 24px/1.4em 'Droid Sans', sans-serif;
+margin:0px;
+color:#BA1A1A;
+}
+
+#instrucciones {
+  position: absolute;
+  left:710px;
+  top:16px;
+  width: 380px;
+  height: 80px;
+}
+#instrucciones p {
+    color: #fff;
+    margin: 0px;
+    font: 400 15px/1.4em 'Droid Sans', sans-serif;
+}
+
+
+
+#contenedor { width: 1100px; height: 709px; border:0px solid #595455; margin: 20px auto; background: url('../images/fondo_AD.png') no-repeat top left scroll #B6B3B3; overflow:hidden; position:relative; }
+
+#preguntas {position: relative;width:1100px; height:709px;}
+
+  /*****************************/
+  .question {
+      width: 590px;
+      height: 60px;
+      position: absolute;
+      left: 454px;
+      top: 256px;
+      z-index: 50;
+  }
+    .question p { color:#5D5E5E; padding: 0px 24px; font:400 20px/1.2em 'Droid Sans', sans-serif; text-align: justify; margin:0; }
+    .question p span { color:#FBC000;}
+
+    #lineas {
+        position: absolute;
+        width: 295px;
+        height: 360px;
+        left: 362px;
+        top: 166px;
+        background: url('../images/lineas.png') top left no-repeat;
+    }
+
+
+.respuesta {
+      position: absolute;
+      width: 545px;
+      height: 36px;
+      border: 0px solid #000;
+      left: 460px;
+      background: transparent;
+      display: flex;
+      align-items:stretch;
+      justify-content: flex-start;
+  }
+  .respuesta:hover{
+    cursor: pointer;
+    /*background: #FEAD00;*/
+ }
+     .respuesta:hover p {
+         color: #000;
+     }
+  .respuesta p {
+    font: 400 16px/1.2em 'Droid Sans',Arial,sans-serif;
+    text-align: justify;
+    color: #969393;
+    padding: 0px;
+    margin: 0px;
+  }
+  .respuesta p span {
+    font-weight: normal;
+    width: 48px;
+    text-align: center;
+    display: inline-block;
+    line-height: 29px;
+    margin-right: 7px;
+  }
+
+  .respuesta__letra {
+      text-align: center;
+      background: #000;
+      flex: 0 0 48px;
+      line-height: 29px;
+  }
+      .respuesta__letra span { text-indent: 5000px; }
+
+  .respuesta__enunciado {
+      flex: 1 0 512px;
+      display: flex;
+      align-items: center;
+  }
+      .respuesta__enunciado p {
+          padding-left: 12px;
+          padding-right: 16px;
+      }
+
+.respuesta.uno {
+  top: 337px;
+  }
+  .respuesta.uno .respuesta__letra {
+    background: url('../images/respuestas_a.png') no-repeat center center;
+  }
+  .respuesta.uno:hover {
+
+  }
+.respuesta.dos {
+  top: 380px;
+  }
+  .respuesta.dos .respuesta__letra {
+    background: url('../images/respuestas_b.png') no-repeat center center;
+  }
+  .respuesta.dos:hover {
+
+  }
+.respuesta.tres {
+  top: 424px;
+  }
+  .respuesta.tres .respuesta__letra {
+    background: url('../images/respuestas_c.png') no-repeat center center;
+  }
+  .respuesta.tres:hover {
+
+  }
+.respuesta.cuatro {
+  top: 467px;
+ }
+  .respuesta.cuatro .respuesta__letra {
+    background: url('../images/respuestas_d.png') no-repeat center center;
+  }
+  .respuesta.cuatro:hover{
+
+  }
+
+
+.icon_respuesta {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    top: 156px;
+}
+.icon_respuesta--buena {
+    background: url('../images/boton_bien.png') center center no-repeat;
+    left: 770px;
+    display: none;
+}
+.icon_respuesta--mala {
+    background: url('../images/boton_mal.png') center center no-repeat;
+    left: 664px;
+    display: none;
+}
+
+.buena {
+  background-color: #00C500 !important;
+    }
+    .buena p { color: #fff !important; }
+  .buena span {
+    color: #00C500; }
+
+.mala {
+  background-color: #F20F01 !important;
+ }
+  .mala p { color: #fff !important; }
+  .mala span {
+    color: #F20F01; }
+
+
+
+  /****************************/
+
+#cinta { }
+
+#retroalimentacion {
+    position: absolute;
+    z-index: 95;
+    width: 323px;
+    height: 157px;
+    left: 213px;
+    top:154px;
+    background: url('../images/nube_retroalientacion2.png') top left no-repeat;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+    #retroalimentacion p {
+        padding-left: 60px;
+        padding-top: 0px;
+        margin:0px;
+        padding-right: 16px;
+        font-size: 14px;
+        color: #fff;
+        line-height: 1.2em;
+        font-weight: normal;
+    }
+
+#cuerpo {
+  background: url('../images/profe_cuerpo.png') top left no-repeat;
+  width: 229px;
+  height: 608px;
+  position: absolute;
+  left: 859px;
+  top: 293px;
+  z-index: 90;
+}
+
+#personaje_cara {
+  position:absolute; left: 17px; top: 85px;
+  height: 624px;
+  background-image: url("../images/sprite_personaje.png");
+  background-repeat: no-repeat;
+  line-height: 624px;
+  width: 364px;
+  z-index: 92;
+}
+
+#personaje_cara.normal {
+  background-position: 0 0;
+}
+
+#personaje_cara.perdio {
+  background-position: -727px 0;
+}
+
+#personaje_cara.gano {
+  background-position: -364px 0;
+}
+
+
+/*=================  Posicionar Cinta de Números ===================*/
+.circulo {
+  position: absolute;
+  width: 58px;
+  height: 57px;
+  text-align: center;
+  top:573px;
+}
+
+.circulo.normal {
+
+}
+
+.c0 { left: 589px; background: url('../images/1_gris.png') no-repeat left top; }
+    .c0.activo {background: url('../images/1_amarillo.png') no-repeat left top; }
+.c1 { left: 654px; background: url('../images/2_gris.png') no-repeat left top; }
+    .c1.activo {background: url('../images/2_amarillo.png') no-repeat left top; }
+.c2 { left: 718px; background: url('../images/3_gris.png') no-repeat left top; }
+    .c2.activo {background: url('../images/3_amarillo.png') no-repeat left top; }
+.c3 { left: 784px; background: url('../images/4_gris.png') no-repeat left top; }
+    .c3.activo {background: url('../images/4_amarillo.png') no-repeat left top; }
+.c4 { left: 849px; background: url('../images/5_gris.png') no-repeat left top; }
+    .c4.activo {background: url('../images/5_amarillo.png') no-repeat left top; }
+
+
+/************************** Resultados   ********************************/
+
+.circle {
+  width: 100px;
+  height: 100px;
+  color: #444;
+}
+
+.circle strong {
+    font-size: 24px;
+    font-weight: 900;
+    left: 0px;
+    position: absolute;
+    text-align: center;
+    top: 40px;
+    width: 100%;
+}
+
+#resultados {
+  position: relative;
+  width: 1100px;
+  height: 700px;
+  z-index: 100;
+  /*background: rgba(0, 0, 0, 0.6);*/
+}
+
+.estadistica {
+  width: 585px;
+  height: 260px;
+  position: absolute;
+  left: 461px;
+  top: 259px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.estadistica__numero {
+
+  width: 115px;
+  height: 33px;
+  line-height: 37px;
+
+
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0px;
+  color: #000;
+
+  margin-top: 12px;
+}
+
+.estadistica__mensaje {
+    width: 580px;
+    z-index: 50;
+    margin-bottom: 24px;
+}
+
+.estadistica__mensaje p {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0px;
+  padding: 12px 0px 0px;
+  color: #27303A;
+  margin: 0px;}
+
+  p.nopadding {
+    padding-top: 0px;
+  }
+
+.bt__jugar-de-nuevo {
+
+  width: 205px;
+  height: 50px;
+
+  cursor: pointer;
+}
+
+.bt__jugar-de-nuevo {
+  background: url("../images/bt_volver.png") no-repeat left top; }
+  .bt__jugar-de-nuevo:hover {background: url("../images/bt_volver_hover.png") no-repeat left top; }

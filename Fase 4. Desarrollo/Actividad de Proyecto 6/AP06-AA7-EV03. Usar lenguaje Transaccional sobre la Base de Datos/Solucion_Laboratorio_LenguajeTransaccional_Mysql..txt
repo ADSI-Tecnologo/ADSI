@@ -1,0 +1,669 @@
+-- MySQL dump 10.13  Distrib 5.6.24, for Win64 (x86_64)
+--
+-- Host: localhost    Database: escuela
+-- ------------------------------------------------------
+-- Server version	5.6.26-log
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `curso`
+--
+
+DROP TABLE IF EXISTS `curso`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `curso` (
+  `cod_curs` int(11) NOT NULL AUTO_INCREMENT,
+  `nom_curs` varchar(100) NOT NULL,
+  `horas_curs` int(11) NOT NULL,
+  `valor_curs` int(11) NOT NULL,
+  PRIMARY KEY (`cod_curs`)
+) ENGINE=InnoDB AUTO_INCREMENT=345672 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `curso`
+--
+
+LOCK TABLES `curso` WRITE;
+/*!40000 ALTER TABLE `curso` DISABLE KEYS */;
+INSERT INTO `curso` VALUES (149842,'Fundamentos de bases de datos',40,500000),(250067,'Fundamentos de SQL',20,700000),(289011,'Manejo de Mysql',45,550000),(345671,'Fundamentals of Oracle',60,3000000);
+/*!40000 ALTER TABLE `curso` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+/*!50003 CREATE*/ /*!50017 DEFINER=`root`@`localhost`*/ /*!50003 TRIGGER actualizacionRegistrosCursos BEFORE UPDATE ON curso
+FOR EACH ROW
+INSERT INTO registroCursos (old_cod_curs, old_nom_curs, old_horas_curs, old_valor_curs, new_cod_curs, new_nom_curs, new_horas_curs, new_valor_curs,
+fechaModificacionRegistro, usuario, accion)
+VALUES
+(old.cod_curs, old.nom_curs, old.horas_curs, old.valor_curs, new.cod_curs, new.nom_curs, new.horas_curs, new.valor_curs, now(), current_user(), 'Actualización') */;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+/*!50003 CREATE*/ /*!50017 DEFINER=`root`@`localhost`*/ /*!50003 TRIGGER cursosBorrados BEFORE DELETE ON curso
+FOR EACH ROW
+INSERT INTO registrocursosborrados
+(cod_curs_borrado, nom_curs_borrado, horas_curs_borrado, valor_curs_borrado, fechaBorradoCurso, usuario, accion)
+VALUES
+(old.cod_curs, old.nom_curs, old.horas_curs, old.valor_curs, now(), current_user(), 'Borrar') */;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+
+--
+-- Table structure for table `estudiante`
+--
+
+DROP TABLE IF EXISTS `estudiante`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `estudiante` (
+  `doc_est` varchar(11) NOT NULL,
+  `nom_est` varchar(30) NOT NULL,
+  `ape_est` varchar(30) NOT NULL,
+  `edad_est` int(11) NOT NULL,
+  PRIMARY KEY (`doc_est`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `estudiante`
+--
+
+LOCK TABLES `estudiante` WRITE;
+/*!40000 ALTER TABLE `estudiante` DISABLE KEYS */;
+INSERT INTO `estudiante` VALUES ('1.098.098','Jonatan','Ardila',1),('1.098.765','Carlos','Martínez',24),('63.502.720','María','Pérez',20),('91.245.678','Carlos José','López',25);
+/*!40000 ALTER TABLE `estudiante` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+/*!50003 CREATE*/ /*!50017 DEFINER=`root`@`localhost`*/ /*!50003 TRIGGER acutalizacionestudiantes BEFORE UPDATE ON estudiante
+FOR EACH ROW
+INSERT INTO registroestudiantes
+(old_doc_est,old_nom_est, old_ape_est, old_edad_est, new_doc_est, new_nom_est, new_ape_est,
+new_edad_est, fechaModificacionEstudiante, usuario, accion)
+VALUES
+(old.doc_est, old.nom_est, old.ape_est, old.edad_est, new.doc_est, new.nom_est, new.ape_est, new.edad_est, now(), current_user(), 'Actualización') */;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+/*!50003 CREATE*/ /*!50017 DEFINER=`root`@`localhost`*/ /*!50003 TRIGGER estudiantesBorrados BEFORE DELETE ON estudiante
+FOR EACH ROW 
+INSERT INTO registroEstudiantesBorrados
+(doc_est_borrado, nom_est_borrado, ape_est_borrado, edad_est_borrado, fechaBorradoEstudiante, usuario, accion)
+VALUES
+(old.doc_est, old.nom_est, old.ape_est, old.edad_est, now(), current_user(), ‘Borrar’) */;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+
+--
+-- Table structure for table `estudiantexcurso`
+--
+
+DROP TABLE IF EXISTS `estudiantexcurso`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `estudiantexcurso` (
+  `cod_cur_estcur` int(11) DEFAULT NULL,
+  `doc_est_estcur` varchar(11) DEFAULT NULL,
+  `fec_ini_estcur` date DEFAULT NULL,
+  KEY `cod_cur_estcur` (`cod_cur_estcur`),
+  KEY `doc_est_estcur` (`doc_est_estcur`),
+  CONSTRAINT `estudiantexcurso_ibfk_1` FOREIGN KEY (`cod_cur_estcur`) REFERENCES `curso` (`cod_curs`),
+  CONSTRAINT `estudiantexcurso_ibfk_2` FOREIGN KEY (`doc_est_estcur`) REFERENCES `estudiante` (`doc_est`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `estudiantexcurso`
+--
+
+LOCK TABLES `estudiantexcurso` WRITE;
+/*!40000 ALTER TABLE `estudiantexcurso` DISABLE KEYS */;
+INSERT INTO `estudiantexcurso` VALUES (289011,'63.502.720','2011-03-01');
+/*!40000 ALTER TABLE `estudiantexcurso` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `profesor`
+--
+
+DROP TABLE IF EXISTS `profesor`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `profesor` (
+  `doc_prof` varchar(11) NOT NULL,
+  `nom_prof` varchar(30) NOT NULL,
+  `ape_prof` varchar(30) NOT NULL,
+  `cate_prof` int(11) DEFAULT NULL,
+  `sal_prof` int(11) NOT NULL,
+  PRIMARY KEY (`doc_prof`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `profesor`
+--
+
+LOCK TABLES `profesor` WRITE;
+/*!40000 ALTER TABLE `profesor` DISABLE KEYS */;
+INSERT INTO `profesor` VALUES ('1.098.765','Alejandra','Torres',4,1100000),('13.826.789','Maritza','Angarita',1,550000),('63.502.720','Martha','Rojas',2,690000),('91.216.904','Carlos','Pérez',2,950000);
+/*!40000 ALTER TABLE `profesor` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+/*!50003 CREATE*/ /*!50017 DEFINER=`root`@`localhost`*/ /*!50003 TRIGGER actualizacionProfesores BEFORE UPDATE ON profesor
+FOR EACH ROW
+INSERT INTO registros_profesores(doc_prof, old_nom_prof, old_ape_prof, old_cate_prof, old_sal_prof, new_nom_prof, new_ape_prof, new_cate_prof, new_sal_prof,
+fechaRegistroModificacion, usuarioRegistro, accionRegistro)
+VALUES
+(old.doc_prof, old.nom_prof, old.ape_prof, old.cate_prof, old.sal_prof, new.nom_prof, new.ape_prof, new.cate_prof, new.sal_prof, now(), current_user(),
+'Actualización') */;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+/*!50003 CREATE*/ /*!50017 DEFINER=`root`@`localhost`*/ /*!50003 TRIGGER profesoresBorrados BEFORE DELETE ON profesor
+ FOR EACH ROW
+ INSERT INTO registroProfesoresBorrados(doc_prof_borrado, nom_prof_borrado, ape_prof_borrado, cate_prof_borrado, sal_prof_borrado, fechaBorrado, usuario, accion)
+ VALUES
+ (old.doc_prof, old.nom_prof, old.ape_prof, old.cate_prof, old.sal_prof, now(), current_user(), 'Borrar') */;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+
+--
+-- Table structure for table `registrocursos`
+--
+
+DROP TABLE IF EXISTS `registrocursos`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `registrocursos` (
+  `idRegistro` int(11) NOT NULL AUTO_INCREMENT,
+  `old_cod_curs` int(11) DEFAULT NULL,
+  `old_nom_curs` varchar(100) DEFAULT NULL,
+  `old_horas_curs` int(11) DEFAULT NULL,
+  `old_valor_curs` int(11) DEFAULT NULL,
+  `new_nom_curs` varchar(100) DEFAULT NULL,
+  `new_horas_curs` int(11) DEFAULT NULL,
+  `new_valor_curs` int(11) DEFAULT NULL,
+  `fechaModificacionRegistro` datetime DEFAULT NULL,
+  `usuario` varchar(45) DEFAULT NULL,
+  `accion` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`idRegistro`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `registrocursos`
+--
+
+LOCK TABLES `registrocursos` WRITE;
+/*!40000 ALTER TABLE `registrocursos` DISABLE KEYS */;
+/*!40000 ALTER TABLE `registrocursos` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `registrocursosborrados`
+--
+
+DROP TABLE IF EXISTS `registrocursosborrados`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `registrocursosborrados` (
+  `idRegistro` int(11) NOT NULL AUTO_INCREMENT,
+  `cod_curs_borrado` int(11) DEFAULT NULL,
+  `nom_curs_borrado` varchar(100) DEFAULT NULL,
+  `horas_curs_borrado` int(11) DEFAULT NULL,
+  `valor_curs_borrado` int(11) DEFAULT NULL,
+  `fechaBorradoCruso` datetime DEFAULT NULL,
+  `usuario` varchar(45) DEFAULT NULL,
+  `accion` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`idRegistro`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `registrocursosborrados`
+--
+
+LOCK TABLES `registrocursosborrados` WRITE;
+/*!40000 ALTER TABLE `registrocursosborrados` DISABLE KEYS */;
+/*!40000 ALTER TABLE `registrocursosborrados` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `registroestudiantes`
+--
+
+DROP TABLE IF EXISTS `registroestudiantes`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `registroestudiantes` (
+  `idRegistro` int(11) NOT NULL AUTO_INCREMENT,
+  `old_doc_est` varchar(11) DEFAULT NULL,
+  `old_nom_est` varchar(30) DEFAULT NULL,
+  `old_ape_est` varchar(30) DEFAULT NULL,
+  `old_edad_est` int(11) DEFAULT NULL,
+  `new_doc_est` varchar(11) DEFAULT NULL,
+  `new_nom_est` varchar(30) DEFAULT NULL,
+  `new_ape_est` varchar(30) DEFAULT NULL,
+  `new_edad_est` int(11) DEFAULT NULL,
+  `fechaModificacionEstudiante` datetime DEFAULT NULL,
+  `usuario` varchar(45) DEFAULT NULL,
+  `accion` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`idRegistro`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `registroestudiantes`
+--
+
+LOCK TABLES `registroestudiantes` WRITE;
+/*!40000 ALTER TABLE `registroestudiantes` DISABLE KEYS */;
+INSERT INTO `registroestudiantes` VALUES (1,'91.245.678','Carlos José','López',3,'91.245.678','Carlos José','López',25,'2019-11-22 10:35:15','root@localhost','Actualización');
+/*!40000 ALTER TABLE `registroestudiantes` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `registroestudiantesborrados`
+--
+
+DROP TABLE IF EXISTS `registroestudiantesborrados`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `registroestudiantesborrados` (
+  `idRegistro` int(11) NOT NULL AUTO_INCREMENT,
+  `doc_est_borrado` varchar(11) DEFAULT NULL,
+  `nom_est_borrado` varchar(30) DEFAULT NULL,
+  `ape_est_borrado` varchar(30) DEFAULT NULL,
+  `edad_est_borrado` int(11) DEFAULT NULL,
+  `fechaBorradoEstudiante` datetime DEFAULT NULL,
+  `usuario` varchar(45) DEFAULT NULL,
+  `accion` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`idRegistro`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `registroestudiantesborrados`
+--
+
+LOCK TABLES `registroestudiantesborrados` WRITE;
+/*!40000 ALTER TABLE `registroestudiantesborrados` DISABLE KEYS */;
+/*!40000 ALTER TABLE `registroestudiantesborrados` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `registroprofesoresborrados`
+--
+
+DROP TABLE IF EXISTS `registroprofesoresborrados`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `registroprofesoresborrados` (
+  `idBorrado` int(11) NOT NULL AUTO_INCREMENT,
+  `doc_prof_borrado` varchar(11) DEFAULT NULL,
+  `nom_prof_borrado` varchar(30) DEFAULT NULL,
+  `ape_prof_borrado` varchar(30) DEFAULT NULL,
+  `cate_prof_borrado` int(11) DEFAULT NULL,
+  `sal_prof_borrado` int(11) DEFAULT NULL,
+  `fechaBorrado` datetime DEFAULT NULL,
+  `usuario` varchar(50) DEFAULT NULL,
+  `accion` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`idBorrado`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `registroprofesoresborrados`
+--
+
+LOCK TABLES `registroprofesoresborrados` WRITE;
+/*!40000 ALTER TABLE `registroprofesoresborrados` DISABLE KEYS */;
+/*!40000 ALTER TABLE `registroprofesoresborrados` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `registros_profesores`
+--
+
+DROP TABLE IF EXISTS `registros_profesores`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `registros_profesores` (
+  `idRegostro` int(11) NOT NULL AUTO_INCREMENT,
+  `doc_prof` varchar(11) DEFAULT NULL,
+  `old_nom_prof` varchar(30) DEFAULT NULL,
+  `old_ape_prof` varchar(30) DEFAULT NULL,
+  `old_cate_prof` int(11) DEFAULT NULL,
+  `old_sal_prof` int(11) DEFAULT NULL,
+  `new_nom_prof` varchar(30) DEFAULT NULL,
+  `new_ape_prof` varchar(30) DEFAULT NULL,
+  `new_cate_prof` int(11) DEFAULT NULL,
+  `new_sal_prof` int(11) DEFAULT NULL,
+  `fechaRegistroModificacion` datetime DEFAULT NULL,
+  `usuarioRegistro` varchar(50) DEFAULT NULL,
+  `accionRegistro` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`idRegostro`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `registros_profesores`
+--
+
+LOCK TABLES `registros_profesores` WRITE;
+/*!40000 ALTER TABLE `registros_profesores` DISABLE KEYS */;
+/*!40000 ALTER TABLE `registros_profesores` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Dumping events for database 'escuela'
+--
+
+--
+-- Dumping routines for database 'escuela'
+--
+/*!50003 DROP FUNCTION IF EXISTS `estudiantesMayores22` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` FUNCTION `estudiantesMayores22`() RETURNS int(11)
+BEGIN
+DECLARE cantidad int;
+SELECT COUNT(*) INTO cantidad FROM estudiante
+WHERE edad_est > 22;
+RETURN cantidad;
+END ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 DROP FUNCTION IF EXISTS `promediocursos` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` FUNCTION `promediocursos`() RETURNS int(11)
+BEGIN
+DECLARE promedio INT;
+select AVG(valor_curs) into promedio
+FROM curso
+WHERE horas_curs > 40;
+RETURN promedio;
+END ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 DROP FUNCTION IF EXISTS `promediosueldoprofesores` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` FUNCTION `promediosueldoprofesores`() RETURNS int(11)
+BEGIN
+DECLARE promedio INT;
+SELECT AVG(sal_prof) into promedio
+FROM profesor
+WHERE cate_prof = 1;
+RETURN promedio;
+END ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 DROP PROCEDURE IF EXISTS `cursosmayoresquinientos` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` PROCEDURE `cursosmayoresquinientos`()
+select * from curso where valor_curs > 500000 ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 DROP PROCEDURE IF EXISTS `cursosValor` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` PROCEDURE `cursosValor`()
+select * from curso order by valor_curs asc ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 DROP PROCEDURE IF EXISTS `estudiantemasjoven` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` PROCEDURE `estudiantemasjoven`()
+SELECT nom_est Nombre, MIN(edad_est) Edad
+FROM estudiante; ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 DROP PROCEDURE IF EXISTS `insertCurso` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` PROCEDURE `insertCurso`(codigo int, nombre varchar(100), horas int, valor int)
+INSERT INTO curso (cod_curs, nom_curs, horas_curs, valor_curs)
+VALUES
+(codigo, nombre, horas, valor) ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 DROP PROCEDURE IF EXISTS `insertEstudiante` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` PROCEDURE `insertEstudiante`( doc varchar(11),  nombre varchar(30), 
+apellido varchar(30), edad int)
+INSERT INTO estudiante (doc_est, nom_est, ape_est, edad_est)
+VALUES
+(doc, nombre, apellido, edad) ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 DROP PROCEDURE IF EXISTS `insertEstudiantexcurso` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` PROCEDURE `insertEstudiantexcurso`(codigoCurso int, 
+documentoEstudiante varchar(11), fechaInicio date)
+INSERT INTO estudiantexcurso(cod_cur_estcur, doc_est_estcur,
+fec_ini_estcur)
+VALUES
+(codigoCurso, documentoEstudiante, fechaInicio) ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 DROP PROCEDURE IF EXISTS `insertProfesores` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` PROCEDURE `insertProfesores`(documento varchar(11),
+nombre varchar(30), apellido varchar(30), categoria int, salario int)
+INSERT INTO profesor(doc_prof, nom_prof, ape_prof, cate_prof, sal_prof)
+VALUES
+(documento, nombre, apellido, categoria, salario) ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!50003 DROP PROCEDURE IF EXISTS `salariosProfesores` */;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8 */ ;
+/*!50003 SET character_set_results = utf8 */ ;
+/*!50003 SET collation_connection  = utf8_general_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+CREATE DEFINER=`root`@`localhost` PROCEDURE `salariosProfesores`()
+select doc_prof Documento, nom_prof Nombre, ape_prof Apellido, cate_prof Categoria, sal_prof Salario
+from profesor order by cate_prof ;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2019-11-22 10:46:25

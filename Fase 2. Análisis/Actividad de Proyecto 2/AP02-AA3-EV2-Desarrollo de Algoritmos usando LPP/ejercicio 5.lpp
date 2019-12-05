@@ -1,0 +1,31 @@
+/*Hacer un algoritmo que pida al usuario
+que ingresen números hasta que se
+ingrese un número superior a 100. El algoritmo
+como resultado debe imprimir la suma de los números
+ingresados comprendidos entre 50 y 60*/
+
+entero numero, suma
+caracter detener
+
+inicio
+		
+		suma<-0
+		
+		repita 
+			escriba "ingrese un numero: "
+			lea numero
+			
+			si ((numero>49) y (numero<61))entonces
+			
+			suma<- suma + numero
+			
+			fin si
+					
+		hasta (numero> 100)
+		
+		escriba "la suma de los numeros ingresados entre el rango 50 y 60 es: ",suma
+		lea detener
+		
+
+
+fin 

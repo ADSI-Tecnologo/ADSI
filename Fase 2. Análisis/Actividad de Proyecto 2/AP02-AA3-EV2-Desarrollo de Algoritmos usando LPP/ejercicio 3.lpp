@@ -1,0 +1,29 @@
+/* Se quiere hacer un programa que imprima en pantalla el nombre del dia, asumiendo que los dias
+están enumerados de 1 a 7, iniciando de lunes a domingo
+*/
+//variables
+
+
+entero dia
+caracter detener
+
+inicio
+		//lectura de variable
+		escriba "ingrese el numero del dia: "
+		lea dia
+		
+		
+		caso dia
+			1: escriba "El dia corespondiente es lunes"
+			2: escriba "El dia correspondiente es martes"
+			3: escriba "El dia correspondiente es miercoles"
+			4: escriba "El dia correspondiente es jueves"
+			5: escriba "El dia correspondiente es viernes"
+			6: escriba "El dia correspondiente es sabado"
+			7: escriba "El dia correspondiente es domingo"
+		 	sino: escriba  "El numero dado esta fuera de rango"
+		fin caso 
+		
+		lea detener
+		
+fin 

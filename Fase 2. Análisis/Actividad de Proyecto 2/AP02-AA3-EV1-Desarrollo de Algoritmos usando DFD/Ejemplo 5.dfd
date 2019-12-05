@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+2
+0
+1
+93
+lee 5 númeos en un arreglo y después llamar a un subprograma para que los muestre en pantalla
+8
+1
+1
+i
+1
+1
+1
+1
+1
+5
+1
+1
+1
+4
+1
+68
+"ingrese un número para ser guardado en el arreglo en la posicion",i
+5
+1
+10
+arreglo(i)
+10
+12
+1
+14
+mostrarArreglo
+1
+7
+arreglo
+1
+2
+1
+14
+mostrarArreglo
+1
+7
+arreglo
+1
+57
+recibe como parametro un arreglo y lo muestra en pantalla
+8
+1
+1
+i
+1
+1
+1
+1
+1
+5
+1
+1
+1
+4
+1
+38
+arreglo(i), "Ubidaco en la posición",i
+10
+3

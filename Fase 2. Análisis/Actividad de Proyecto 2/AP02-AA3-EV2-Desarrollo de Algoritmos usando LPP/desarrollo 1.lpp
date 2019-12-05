@@ -1,0 +1,47 @@
+cadena [11] cedula
+cadena [30] nombre
+real salario, auxilio, comision, prestamos, salarioneto,ventas
+entero dias
+caracter detener
+
+inicio
+	escriba "ingrese su cedula: "
+	lea cedula
+	escriba "ingrese su nombre"
+	lea nombre
+	escriba "ingrese su salario basico: "
+	lea salario
+	escriba "ingese los dias laborados: "
+	lea dias
+	escriba "ingrese los prestamos otrogados: "
+	lea prestamos
+	escriba "ingrese sus ventas del mes: "
+	lea ventas
+	llamar nueva_linea
+	
+	si (salario<1179000)entonces
+	auxilio <- (83.140*dias/30)
+	sino 
+	auxilio <- 0
+	fin si
+	
+	
+	comision <- (ventas*0.02)
+	salarioneto <- (salario*dias/30+auxilio+comision-prestamos)
+	
+	
+	escriba "cedula empleado",cedula
+	llamar nueva_linea
+	escriba "nombre: ",nombre
+	llamar nueva_linea
+	escriba "salario basico: ",salario
+	llamar nueva_linea
+	escriba "auxilio de transporte: ",auxilio
+	llamar nueva_linea
+	escriba "comision de ventas: ",comision 
+	llamar nueva_linea
+	escriba "prestamos: ",prestamos
+	llamar nueva_linea
+	escriba "salario neto a recibir: ",salarioneto
+	lea detener
+fin

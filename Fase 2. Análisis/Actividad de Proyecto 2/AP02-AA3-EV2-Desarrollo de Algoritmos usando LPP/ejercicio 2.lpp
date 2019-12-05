@@ -1,0 +1,26 @@
+/* Hacer un algoritmo que lea 2 números enteros y como resultado debe imprimir el valor del número mayor, si son inguales debe imprimir los dos números son iguales
+*/
+
+entero numero1,numero2, mayor
+
+
+inicio
+	//captura de los datos
+	escriba "ingrese un numero: "
+	lea numero1
+	escriba "ingrese otro numero: "
+	lea numero 2
+	//uso de la estructura si para averiguar cual es el numero mayor
+	si (numero1=numero2)entonces
+		escriba "loos dos numeros son iguales"
+	sino 
+		si(numero1>numero2)entonces
+		mayor<-numero1
+	sino
+		mayor <- numero2
+		fin si
+		escriba "El numero mayor es: ",mayor
+	fin si
+	lea detener 
+	
+fin 

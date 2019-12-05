@@ -1,0 +1,20 @@
+/* Hacer un algoritmo que lea el nombre yy la edad de una persona. Al finalizar el algoritmo debe imprimirlo como:
+Ejemplo salida:
+Erika Galindo, su edad es :25.
+*/
+
+cadena [30] nombre
+entero edad
+caracter detener				
+
+inicio 
+		//lectura de datos de entrada
+		escriba "ingrese su nombre: "
+		lea nombre
+		escriba "ingrese su edad: "
+		lea edad
+		
+		// salida de datos
+		escriba nombre, "Su edad es:",edad
+		lea detener
+fin 

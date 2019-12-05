@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Capa_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="469.208px"
+	 height="120.602px" viewBox="0 0 469.208 120.602" style="enable-background:new 0 0 469.208 120.602;" xml:space="preserve">
+<style type="text/css">
+	.Sombra_x0020_paralela{fill:none;}
+	.Esquinas_x0020_redondeadas_x0020_2_x0020_pt_x002E_{fill:#FFFFFF;stroke:#1E120D;stroke-miterlimit:10;}
+	.Reflejo_x0020_vivo_x0020_X{fill:none;}
+	.Bisel_x0020_suave{fill:url(#SVGID_1_);}
+	.Atardecer{fill:#FFFFFF;}
+	.Follaje_GS{fill:#FFE100;}
+	.Pompadour_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#66B0E0;}
+	.st0{fill:#FFFFFF;stroke:#E54F26;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:#E54F26;}
+	.st2{fill:#E54F26;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#E54F26;stroke:#E54F26;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <dc:format>image/svg+xml</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Imprimir</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:MetadataDate>2017-08-25T17:54:35-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2017-08-25T17:54:35-05:00</xmp:ModifyDate>
+         <xmp:CreateDate>2017-08-25T17:54:35-05:00</xmp:CreateDate>
+         <xmp:CreatorTool>Adobe Illustrator CC (Windows)</xmp:CreatorTool>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>148</xmpGImg:height>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgAlAEAAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9U4q7FXYq7FXYq7FXYqh&#xA;77ULOxjElzIEDHjGgBZ3b+VEWrO3sorkZzEebZjxSmaiPx5noll1dX08LTXcv6G00dSzL9akHz3W&#xA;KvgOT/6pymUiRZ9Mft/Z9/ucqEIRNRHiT/2I/X9g94Se01HS4p4jZGbQ2uovrNtLdESW11HyC85U&#xA;MjMGPJSWJVyCKnYgURnEHa4XvvyPv/ALmZMWQg8VZeE0a2lE+W3L5x8mQQ60YpFt9Vi+ozueMcnL&#xA;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&#xA;Fnj4+IcPh8V7fTzf/9k=</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+         <xmpMM:InstanceID>xmp.iid:642e093e-76b4-b445-b60e-7084c260ca39</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:642e093e-76b4-b445-b60e-7084c260ca39</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>uuid:ff470bc6-f939-440e-8f31-27b0eb70075c</stRef:instanceID>
+            <stRef:documentID>xmp.did:4de20fe2-e96f-dd46-b8bd-1606dc72d06f</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:642e093e-76b4-b445-b60e-7084c260ca39</stEvt:instanceID>
+                  <stEvt:when>2017-08-25T17:54:35-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>469.576100</stDim:w>
+            <stDim:h>120.601500</stDim:h>
+            <stDim:unit>Pixels</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grupo de muestras por defecto</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Blanco</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Negro</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>30</xmpG:red>
+                           <xmpG:green>18</xmpG:green>
+                           <xmpG:blue>13</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Rojo CMYK</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>224</xmpG:red>
+                           <xmpG:green>1</xmpG:green>
+                           <xmpG:blue>9</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Amarillo CMYK</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>239</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Verde CMYK</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>145</xmpG:green>
+                           <xmpG:blue>61</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Cian CMYK</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>156</xmpG:green>
+                           <xmpG:blue>222</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Azul CMYK</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>23</xmpG:green>
+                           <xmpG:blue>129</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Magenta CMYK</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>218</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>128</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=15 M=100 Y=90 K=10</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>188</xmpG:red>
+                           <xmpG:green>9</xmpG:green>
+                           <xmpG:blue>35</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=90 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>228</xmpG:red>
+                           <xmpG:green>71</xmpG:green>
+                           <xmpG:blue>45</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=80 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>231</xmpG:red>
+                           <xmpG:green>97</xmpG:green>
+                           <xmpG:blue>18</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=50 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>241</xmpG:red>
+                           <xmpG:green>152</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=35 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>246</xmpG:red>
+                           <xmpG:green>182</xmpG:green>
+                           <xmpG:blue>62</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=5 M=0 Y=90 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>252</xmpG:red>
+                           <xmpG:green>237</xmpG:green>
+                           <xmpG:blue>42</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=20 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>223</xmpG:red>
+                           <xmpG:green>221</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>152</xmpG:red>
+                           <xmpG:green>191</xmpG:green>
+                           <xmpG:blue>17</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>76</xmpG:red>
+                           <xmpG:green>169</xmpG:green>
+                           <xmpG:blue>43</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=10</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>144</xmpG:green>
+                           <xmpG:blue>47</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=90 M=30 Y=95 K=30</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>101</xmpG:green>
+                           <xmpG:blue>46</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=75 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>68</xmpG:red>
+                           <xmpG:green>172</xmpG:green>
+                           <xmpG:blue>108</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=80 M=10 Y=45 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>31</xmpG:red>
+                           <xmpG:green>162</xmpG:green>
+                           <xmpG:blue>155</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=70 M=15 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>86</xmpG:red>
+                           <xmpG:green>172</xmpG:green>
+                           <xmpG:blue>222</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=50 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>44</xmpG:red>
+                           <xmpG:green>115</xmpG:green>
+                           <xmpG:blue>181</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=95 Y=5 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>42</xmpG:green>
+                           <xmpG:blue>133</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=100 Y=25 K=25</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>19</xmpG:green>
+                           <xmpG:blue>92</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>101</xmpG:red>
+                           <xmpG:green>14</xmpG:green>
+                           <xmpG:blue>129</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>145</xmpG:red>
+                           <xmpG:green>2</xmpG:green>
+                           <xmpG:blue>129</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=100 Y=35 K=10</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>156</xmpG:red>
+                           <xmpG:green>6</xmpG:green>
+                           <xmpG:blue>92</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=10 M=100 Y=50 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>208</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>84</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=95 Y=20 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>222</xmpG:red>
+                           <xmpG:green>47</xmpG:green>
+                           <xmpG:blue>121</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=25 Y=40 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>202</xmpG:red>
+                           <xmpG:green>188</xmpG:green>
+                           <xmpG:blue>159</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=45 Y=50 K=5</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>163</xmpG:red>
+                           <xmpG:green>138</xmpG:green>
+                           <xmpG:blue>123</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=50 Y=60 K=25</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>118</xmpG:red>
+                           <xmpG:green>105</xmpG:green>
+                           <xmpG:blue>87</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=55 M=60 Y=65 K=40</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>92</xmpG:red>
+                           <xmpG:green>77</xmpG:green>
+                           <xmpG:blue>62</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=40 Y=65 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>200</xmpG:red>
+                           <xmpG:green>159</xmpG:green>
+                           <xmpG:blue>106</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=30 M=50 Y=75 K=10</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>176</xmpG:red>
+                           <xmpG:green>129</xmpG:green>
+                           <xmpG:blue>77</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=60 Y=80 K=25</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>142</xmpG:red>
+                           <xmpG:green>98</xmpG:green>
+                           <xmpG:blue>55</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=65 Y=90 K=35</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>119</xmpG:red>
+                           <xmpG:green>80</xmpG:green>
+                           <xmpG:blue>32</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=70 Y=100 K=50</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>99</xmpG:red>
+                           <xmpG:green>62</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=70 Y=80 K=70</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>63</xmpG:red>
+                           <xmpG:green>40</xmpG:green>
+                           <xmpG:blue>13</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grises</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>30</xmpG:red>
+                           <xmpG:green>18</xmpG:green>
+                           <xmpG:blue>13</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=90</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>67</xmpG:red>
+                           <xmpG:green>64</xmpG:green>
+                           <xmpG:blue>64</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=80</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>91</xmpG:red>
+                           <xmpG:green>91</xmpG:green>
+                           <xmpG:blue>95</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=70</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>114</xmpG:red>
+                           <xmpG:green>114</xmpG:green>
+                           <xmpG:blue>119</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=60</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>137</xmpG:red>
+                           <xmpG:green>135</xmpG:green>
+                           <xmpG:blue>140</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=50</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>156</xmpG:red>
+                           <xmpG:green>154</xmpG:green>
+                           <xmpG:blue>160</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=40</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>176</xmpG:red>
+                           <xmpG:green>175</xmpG:green>
+                           <xmpG:blue>181</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=30</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>195</xmpG:red>
+                           <xmpG:green>197</xmpG:green>
+                           <xmpG:blue>202</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=20</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>216</xmpG:red>
+                           <xmpG:green>218</xmpG:green>
+                           <xmpG:blue>222</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=10</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>237</xmpG:red>
+                           <xmpG:green>238</xmpG:green>
+                           <xmpG:blue>240</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=5</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>247</xmpG:red>
+                           <xmpG:green>248</xmpG:green>
+                           <xmpG:blue>248</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Brillantes</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=100 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>224</xmpG:red>
+                           <xmpG:green>1</xmpG:green>
+                           <xmpG:blue>9</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=75 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>233</xmpG:red>
+                           <xmpG:green>107</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=10 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>226</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>152</xmpG:green>
+                           <xmpG:blue>50</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>53</xmpG:green>
+                           <xmpG:blue>142</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=60 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>128</xmpG:red>
+                           <xmpG:green>62</xmpG:green>
+                           <xmpG:blue>144</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 10.01</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+	</metadata>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="199.5715" y1="-293.4014" x2="200.2787" y2="-292.6943">
+	<stop  offset="0" style="stop-color:#E8EAED"/>
+	<stop  offset="0.1733" style="stop-color:#E4E6E9"/>
+	<stop  offset="0.351" style="stop-color:#D8DADD"/>
+	<stop  offset="0.5307" style="stop-color:#C3C6C8"/>
+	<stop  offset="0.7118" style="stop-color:#A7AAAB"/>
+	<stop  offset="0.8922" style="stop-color:#828787"/>
+	<stop  offset="1" style="stop-color:#696E6D"/>
+</linearGradient>
+<g>
+	<rect x="47.044" y="1.5" class="st0" width="420.664" height="117.602"/>
+	<g>
+		<g>
+			<path d="M107.505,60.734V50.713h7.246v1.183h-5.92v3.069h5.544v1.176h-5.544v3.411h6.152v1.183H107.505z"/>
+			<path d="M116.166,58.567l1.217-0.191c0.068,0.487,0.259,0.861,0.571,1.121c0.312,0.26,0.748,0.39,1.309,0.39
+				c0.565,0,0.984-0.115,1.258-0.346c0.273-0.229,0.41-0.5,0.41-0.81c0-0.278-0.121-0.497-0.362-0.656
+				c-0.169-0.109-0.588-0.248-1.258-0.417c-0.902-0.228-1.528-0.425-1.876-0.592c-0.35-0.166-0.613-0.396-0.793-0.689
+				c-0.181-0.295-0.271-0.619-0.271-0.975c0-0.323,0.074-0.623,0.222-0.898c0.148-0.276,0.351-0.505,0.605-0.688
+				c0.191-0.142,0.452-0.261,0.783-0.359c0.33-0.098,0.685-0.146,1.063-0.146c0.569,0,1.07,0.082,1.5,0.246
+				c0.432,0.164,0.749,0.387,0.954,0.666c0.205,0.281,0.347,0.655,0.424,1.125l-1.203,0.164c-0.055-0.374-0.213-0.665-0.476-0.875
+				c-0.262-0.21-0.632-0.314-1.11-0.314c-0.565,0-0.969,0.094-1.21,0.28s-0.362,0.405-0.362,0.656c0,0.159,0.05,0.303,0.15,0.431
+				c0.101,0.132,0.258,0.241,0.472,0.328c0.123,0.046,0.485,0.15,1.087,0.314c0.87,0.232,1.478,0.423,1.821,0.57
+				c0.345,0.148,0.614,0.364,0.811,0.646s0.294,0.634,0.294,1.053c0,0.41-0.12,0.797-0.358,1.158
+				c-0.24,0.363-0.585,0.643-1.036,0.842c-0.451,0.197-0.962,0.297-1.531,0.297c-0.943,0-1.662-0.196-2.157-0.588
+				C116.618,59.919,116.303,59.338,116.166,58.567z"/>
+			<path d="M126.345,59.634l0.178,1.087c-0.347,0.073-0.656,0.109-0.93,0.109c-0.446,0-0.793-0.07-1.039-0.212
+				s-0.419-0.327-0.52-0.558c-0.101-0.229-0.15-0.714-0.15-1.452v-4.177h-0.902v-0.957h0.902v-1.798l1.224-0.738v2.536h1.237v0.957
+				h-1.237v4.245c0,0.351,0.021,0.576,0.065,0.677c0.043,0.101,0.113,0.18,0.211,0.239c0.099,0.06,0.238,0.089,0.421,0.089
+				C125.942,59.682,126.121,59.666,126.345,59.634z"/>
+			<path d="M132.285,59.839c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285
+				C132.404,60.479,132.322,60.181,132.285,59.839z M132.183,57.091c-0.446,0.183-1.116,0.337-2.01,0.465
+				c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399c-0.114,0.176-0.171,0.371-0.171,0.585
+				c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328c0.474,0,0.896-0.104,1.265-0.312
+				c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V57.091z"/>
+			<path d="M143.508,58.075l1.21,0.157c-0.132,0.834-0.471,1.486-1.015,1.959c-0.545,0.471-1.214,0.707-2.007,0.707
+				c-0.993,0-1.792-0.324-2.396-0.975c-0.604-0.648-0.906-1.58-0.906-2.792c0-0.784,0.13-1.47,0.39-2.058s0.655-1.029,1.187-1.322
+				c0.53-0.295,1.108-0.441,1.732-0.441c0.788,0,1.434,0.199,1.935,0.598c0.501,0.399,0.822,0.966,0.964,1.699l-1.196,0.185
+				c-0.114-0.487-0.315-0.854-0.604-1.101c-0.29-0.246-0.64-0.369-1.05-0.369c-0.62,0-1.123,0.223-1.511,0.666
+				c-0.388,0.445-0.581,1.147-0.581,2.109c0,0.976,0.187,1.684,0.561,2.126s0.861,0.663,1.463,0.663c0.483,0,0.887-0.148,1.21-0.444
+				S143.421,58.69,143.508,58.075z"/>
+			<path d="M150.508,59.839c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285
+				C150.626,60.479,150.544,60.181,150.508,59.839z M150.406,57.091c-0.446,0.183-1.116,0.337-2.01,0.465
+				c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399c-0.114,0.176-0.171,0.371-0.171,0.585
+				c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328c0.474,0,0.896-0.104,1.265-0.312
+				c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V57.091z"/>
+			<path d="M153.543,60.734v-7.26h1.107v1.101c0.282-0.515,0.544-0.854,0.782-1.019c0.24-0.164,0.503-0.246,0.79-0.246
+				c0.415,0,0.836,0.132,1.265,0.396l-0.424,1.142c-0.301-0.178-0.602-0.267-0.902-0.267c-0.269,0-0.511,0.081-0.725,0.242
+				c-0.214,0.162-0.367,0.387-0.458,0.674c-0.137,0.438-0.205,0.916-0.205,1.436v3.801H153.543z"/>
+			<path d="M162.956,59.839c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285
+				C163.074,60.479,162.992,60.181,162.956,59.839z M162.854,57.091c-0.446,0.183-1.116,0.337-2.01,0.465
+				c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399c-0.114,0.176-0.171,0.371-0.171,0.585
+				c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328c0.474,0,0.896-0.104,1.265-0.312
+				c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V57.091z"/>
+			<path d="M170.742,58.075l1.21,0.157c-0.132,0.834-0.471,1.486-1.015,1.959c-0.545,0.471-1.214,0.707-2.007,0.707
+				c-0.993,0-1.792-0.324-2.396-0.975c-0.604-0.648-0.906-1.58-0.906-2.792c0-0.784,0.13-1.47,0.39-2.058s0.655-1.029,1.187-1.322
+				c0.53-0.295,1.108-0.441,1.732-0.441c0.788,0,1.434,0.199,1.935,0.598c0.501,0.399,0.822,0.966,0.964,1.699l-1.196,0.185
+				c-0.114-0.487-0.315-0.854-0.604-1.101c-0.29-0.246-0.64-0.369-1.05-0.369c-0.62,0-1.123,0.223-1.511,0.666
+				c-0.388,0.445-0.581,1.147-0.581,2.109c0,0.976,0.187,1.684,0.561,2.126s0.861,0.663,1.463,0.663c0.483,0,0.887-0.148,1.21-0.444
+				S170.656,58.69,170.742,58.075z"/>
+			<path d="M175.692,59.634l0.178,1.087c-0.347,0.073-0.656,0.109-0.93,0.109c-0.446,0-0.793-0.07-1.039-0.212
+				s-0.419-0.327-0.52-0.558c-0.101-0.229-0.15-0.714-0.15-1.452v-4.177h-0.902v-0.957h0.902v-1.798l1.224-0.738v2.536h1.237v0.957
+				h-1.237v4.245c0,0.351,0.021,0.576,0.065,0.677c0.043,0.101,0.113,0.18,0.211,0.239c0.099,0.06,0.238,0.089,0.421,0.089
+				C175.288,59.682,175.468,59.666,175.692,59.634z"/>
+			<path d="M181.865,58.396l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S181.678,58.916,181.865,58.396z
+				 M177.824,56.407h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C178.078,55.268,177.865,55.773,177.824,56.407z"/>
+			<path d="M184.667,60.734v-7.26h1.107v1.101c0.282-0.515,0.544-0.854,0.782-1.019c0.24-0.164,0.503-0.246,0.79-0.246
+				c0.415,0,0.836,0.132,1.265,0.396l-0.424,1.142c-0.301-0.178-0.602-0.267-0.902-0.267c-0.269,0-0.511,0.081-0.725,0.242
+				c-0.214,0.162-0.367,0.387-0.458,0.674c-0.137,0.438-0.205,0.916-0.205,1.436v3.801H184.667z"/>
+			<path d="M189.712,52.572l0.909-1.914h1.613l-1.504,1.914H189.712z M189.774,60.734v-7.26h1.23v7.26H189.774z"/>
+			<path d="M192.74,58.567l1.217-0.191c0.068,0.487,0.259,0.861,0.571,1.121c0.312,0.26,0.748,0.39,1.309,0.39
+				c0.565,0,0.984-0.115,1.258-0.346c0.273-0.229,0.41-0.5,0.41-0.81c0-0.278-0.121-0.497-0.362-0.656
+				c-0.169-0.109-0.588-0.248-1.258-0.417c-0.902-0.228-1.528-0.425-1.876-0.592c-0.35-0.166-0.613-0.396-0.793-0.689
+				c-0.181-0.295-0.271-0.619-0.271-0.975c0-0.323,0.074-0.623,0.222-0.898c0.148-0.276,0.351-0.505,0.605-0.688
+				c0.191-0.142,0.452-0.261,0.783-0.359c0.33-0.098,0.685-0.146,1.063-0.146c0.569,0,1.07,0.082,1.5,0.246
+				c0.432,0.164,0.749,0.387,0.954,0.666c0.205,0.281,0.347,0.655,0.424,1.125l-1.203,0.164c-0.055-0.374-0.213-0.665-0.476-0.875
+				c-0.262-0.21-0.632-0.314-1.11-0.314c-0.565,0-0.969,0.094-1.21,0.28s-0.362,0.405-0.362,0.656c0,0.159,0.05,0.303,0.15,0.431
+				c0.101,0.132,0.258,0.241,0.472,0.328c0.123,0.046,0.485,0.15,1.087,0.314c0.87,0.232,1.478,0.423,1.821,0.57
+				c0.345,0.148,0.614,0.364,0.811,0.646s0.294,0.634,0.294,1.053c0,0.41-0.12,0.797-0.358,1.158
+				c-0.24,0.363-0.585,0.643-1.036,0.842c-0.451,0.197-0.962,0.297-1.531,0.297c-0.943,0-1.662-0.196-2.157-0.588
+				C193.193,59.919,192.877,59.338,192.74,58.567z"/>
+			<path d="M202.919,59.634l0.178,1.087c-0.347,0.073-0.656,0.109-0.93,0.109c-0.446,0-0.793-0.07-1.039-0.212
+				s-0.419-0.327-0.52-0.558c-0.101-0.229-0.15-0.714-0.15-1.452v-4.177h-0.902v-0.957h0.902v-1.798l1.224-0.738v2.536h1.237v0.957
+				h-1.237v4.245c0,0.351,0.021,0.576,0.065,0.677c0.043,0.101,0.113,0.18,0.211,0.239c0.099,0.06,0.238,0.089,0.421,0.089
+				C202.516,59.682,202.696,59.666,202.919,59.634z"/>
+			<path d="M204.129,52.128v-1.415h1.23v1.415H204.129z M204.129,60.734v-7.26h1.23v7.26H204.129z"/>
+			<path d="M211.97,58.075l1.21,0.157c-0.132,0.834-0.471,1.486-1.015,1.959c-0.545,0.471-1.214,0.707-2.007,0.707
+				c-0.993,0-1.792-0.324-2.396-0.975c-0.604-0.648-0.906-1.58-0.906-2.792c0-0.784,0.13-1.47,0.39-2.058s0.655-1.029,1.187-1.322
+				c0.53-0.295,1.108-0.441,1.732-0.441c0.788,0,1.434,0.199,1.935,0.598c0.501,0.399,0.822,0.966,0.964,1.699l-1.196,0.185
+				c-0.114-0.487-0.315-0.854-0.604-1.101c-0.29-0.246-0.64-0.369-1.05-0.369c-0.62,0-1.123,0.223-1.511,0.666
+				c-0.388,0.445-0.581,1.147-0.581,2.109c0,0.976,0.187,1.684,0.561,2.126s0.861,0.663,1.463,0.663c0.483,0,0.887-0.148,1.21-0.444
+				S211.883,58.69,211.97,58.075z"/>
+			<path d="M218.97,59.839c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285
+				C219.088,60.479,219.006,60.181,218.97,59.839z M218.867,57.091c-0.446,0.183-1.116,0.337-2.01,0.465
+				c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399c-0.114,0.176-0.171,0.371-0.171,0.585
+				c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328c0.474,0,0.896-0.104,1.265-0.312
+				c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V57.091z"/>
+			<path d="M225.456,63.517V53.475h1.121v0.943c0.265-0.369,0.563-0.646,0.896-0.83c0.333-0.186,0.736-0.277,1.21-0.277
+				c0.62,0,1.167,0.159,1.641,0.479s0.832,0.77,1.073,1.35c0.241,0.582,0.362,1.219,0.362,1.911c0,0.743-0.134,1.411-0.399,2.007
+				c-0.268,0.594-0.654,1.05-1.162,1.367c-0.509,0.316-1.043,0.475-1.604,0.475c-0.41,0-0.778-0.087-1.104-0.26
+				c-0.326-0.173-0.594-0.392-0.804-0.656v3.534H225.456z M226.571,57.145c0,0.935,0.189,1.625,0.567,2.071s0.836,0.67,1.374,0.67
+				c0.547,0,1.016-0.231,1.404-0.693c0.391-0.463,0.585-1.18,0.585-2.15c0-0.925-0.19-1.618-0.571-2.078
+				c-0.38-0.46-0.835-0.69-1.363-0.69c-0.524,0-0.988,0.245-1.391,0.735C226.772,55.499,226.571,56.211,226.571,57.145z"/>
+			<path d="M238.212,58.396l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S238.026,58.916,238.212,58.396z
+				 M234.172,56.407h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C234.426,55.268,234.213,55.773,234.172,56.407z"/>
+			<path d="M241.015,60.734v-7.26h1.107v1.101c0.282-0.515,0.544-0.854,0.782-1.019c0.24-0.164,0.503-0.246,0.79-0.246
+				c0.415,0,0.836,0.132,1.265,0.396l-0.424,1.142c-0.301-0.178-0.602-0.267-0.902-0.267c-0.269,0-0.511,0.081-0.725,0.242
+				c-0.214,0.162-0.367,0.387-0.458,0.674c-0.137,0.438-0.205,0.916-0.205,1.436v3.801H241.015z"/>
+			<path d="M245.691,60.734v-7.26h1.101v1.019c0.228-0.355,0.531-0.642,0.909-0.858c0.378-0.216,0.809-0.324,1.292-0.324
+				c0.538,0,0.979,0.111,1.322,0.335c0.345,0.224,0.587,0.535,0.729,0.937c0.574-0.848,1.321-1.271,2.242-1.271
+				c0.72,0,1.273,0.199,1.661,0.598c0.388,0.399,0.581,1.014,0.581,1.843v4.983h-1.224v-4.573c0-0.492-0.04-0.847-0.12-1.063
+				c-0.079-0.216-0.224-0.391-0.434-0.522s-0.456-0.198-0.738-0.198c-0.511,0-0.935,0.17-1.271,0.51
+				c-0.337,0.339-0.506,0.883-0.506,1.63v4.218h-1.23v-4.717c0-0.547-0.101-0.957-0.301-1.23s-0.528-0.41-0.984-0.41
+				c-0.347,0-0.666,0.091-0.961,0.273c-0.293,0.183-0.507,0.449-0.639,0.8s-0.198,0.856-0.198,1.518v3.767H245.691z"/>
+			<path d="M257.36,52.128v-1.415h1.23v1.415H257.36z M257.36,60.734v-7.26h1.23v7.26H257.36z"/>
+			<path d="M263.15,59.634l0.178,1.087c-0.347,0.073-0.656,0.109-0.93,0.109c-0.446,0-0.793-0.07-1.039-0.212
+				s-0.419-0.327-0.52-0.558c-0.101-0.229-0.15-0.714-0.15-1.452v-4.177h-0.902v-0.957h0.902v-1.798l1.224-0.738v2.536h1.237v0.957
+				h-1.237v4.245c0,0.351,0.021,0.576,0.065,0.677c0.043,0.101,0.113,0.18,0.211,0.239c0.099,0.06,0.238,0.089,0.421,0.089
+				C262.746,59.682,262.926,59.666,263.15,59.634z"/>
+			<path d="M269.323,58.396l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S269.136,58.916,269.323,58.396z
+				 M265.283,56.407h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C265.536,55.268,265.324,55.773,265.283,56.407z"/>
+			<path d="M280.313,59.839c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285
+				C280.431,60.479,280.349,60.181,280.313,59.839z M280.21,57.091c-0.446,0.183-1.116,0.337-2.01,0.465
+				c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399c-0.114,0.176-0.171,0.371-0.171,0.585
+				c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328c0.474,0,0.896-0.104,1.265-0.312
+				c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V57.091z"/>
+			<path d="M282.869,58.567l1.217-0.191c0.068,0.487,0.259,0.861,0.571,1.121c0.312,0.26,0.748,0.39,1.309,0.39
+				c0.565,0,0.984-0.115,1.258-0.346c0.273-0.229,0.41-0.5,0.41-0.81c0-0.278-0.121-0.497-0.362-0.656
+				c-0.169-0.109-0.588-0.248-1.258-0.417c-0.902-0.228-1.528-0.425-1.876-0.592c-0.35-0.166-0.613-0.396-0.793-0.689
+				c-0.181-0.295-0.271-0.619-0.271-0.975c0-0.323,0.074-0.623,0.222-0.898c0.148-0.276,0.351-0.505,0.605-0.688
+				c0.191-0.142,0.452-0.261,0.783-0.359c0.33-0.098,0.685-0.146,1.063-0.146c0.569,0,1.07,0.082,1.5,0.246
+				c0.432,0.164,0.749,0.387,0.954,0.666c0.205,0.281,0.347,0.655,0.424,1.125l-1.203,0.164c-0.055-0.374-0.213-0.665-0.476-0.875
+				c-0.262-0.21-0.632-0.314-1.11-0.314c-0.565,0-0.969,0.094-1.21,0.28s-0.362,0.405-0.362,0.656c0,0.159,0.05,0.303,0.15,0.431
+				c0.101,0.132,0.258,0.241,0.472,0.328c0.123,0.046,0.485,0.15,1.087,0.314c0.87,0.232,1.478,0.423,1.821,0.57
+				c0.345,0.148,0.614,0.364,0.811,0.646s0.294,0.634,0.294,1.053c0,0.41-0.12,0.797-0.358,1.158
+				c-0.24,0.363-0.585,0.643-1.036,0.842c-0.451,0.197-0.962,0.297-1.531,0.297c-0.943,0-1.662-0.196-2.157-0.588
+				C283.322,59.919,283.006,59.338,282.869,58.567z"/>
+			<path d="M290.368,52.128v-1.415h1.23v1.415H290.368z M290.368,60.734v-7.26h1.23v7.26H290.368z"/>
+			<path d="M293.246,61.336l1.196,0.178c0.05,0.369,0.189,0.638,0.417,0.807c0.306,0.228,0.723,0.342,1.251,0.342
+				c0.569,0,1.01-0.114,1.319-0.342s0.52-0.547,0.629-0.957c0.063-0.251,0.094-0.777,0.089-1.579c-0.538,0.634-1.208,0.95-2.01,0.95
+				c-0.998,0-1.771-0.36-2.317-1.08S293,58.07,293,57.063c0-0.692,0.125-1.332,0.376-1.917c0.251-0.586,0.614-1.038,1.091-1.357
+				c0.476-0.319,1.035-0.479,1.678-0.479c0.856,0,1.563,0.347,2.119,1.039v-0.875h1.135v6.275c0,1.13-0.115,1.932-0.346,2.402
+				c-0.229,0.473-0.594,0.845-1.094,1.118c-0.498,0.273-1.112,0.41-1.842,0.41c-0.866,0-1.565-0.194-2.099-0.585
+				C293.486,62.707,293.228,62.12,293.246,61.336z M294.265,56.975c0,0.952,0.189,1.647,0.567,2.085s0.853,0.656,1.422,0.656
+				c0.565,0,1.039-0.218,1.422-0.653c0.383-0.435,0.574-1.117,0.574-2.047c0-0.889-0.197-1.559-0.592-2.01
+				c-0.394-0.451-0.869-0.677-1.425-0.677c-0.547,0-1.012,0.222-1.395,0.667C294.456,55.439,294.265,56.1,294.265,56.975z"/>
+			<path d="M301.258,60.734v-7.26h1.107v1.032c0.533-0.798,1.304-1.196,2.311-1.196c0.438,0,0.84,0.078,1.206,0.236
+				c0.367,0.156,0.642,0.363,0.824,0.618s0.31,0.559,0.383,0.909c0.046,0.228,0.068,0.627,0.068,1.196v4.464h-1.23v-4.416
+				c0-0.501-0.048-0.876-0.144-1.125c-0.096-0.248-0.266-0.446-0.509-0.594c-0.244-0.148-0.53-0.223-0.858-0.223
+				c-0.524,0-0.977,0.166-1.356,0.499c-0.381,0.333-0.571,0.964-0.571,1.894v3.965H301.258z"/>
+			<path d="M313.782,59.839c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285C313.9,60.479,313.818,60.181,313.782,59.839
+				z M313.679,57.091c-0.446,0.183-1.116,0.337-2.01,0.465c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399
+				c-0.114,0.176-0.171,0.371-0.171,0.585c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328
+				c0.474,0,0.896-0.104,1.265-0.312c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V57.091z"/>
+			<path d="M316.817,60.734v-7.26h1.107v1.101c0.282-0.515,0.544-0.854,0.782-1.019c0.24-0.164,0.503-0.246,0.79-0.246
+				c0.415,0,0.836,0.132,1.265,0.396l-0.424,1.142c-0.301-0.178-0.602-0.267-0.902-0.267c-0.269,0-0.511,0.081-0.725,0.242
+				c-0.214,0.162-0.367,0.387-0.458,0.674c-0.137,0.438-0.205,0.916-0.205,1.436v3.801H316.817z"/>
+			<path d="M329.687,60.734v-1.066c-0.565,0.82-1.333,1.23-2.304,1.23c-0.429,0-0.828-0.082-1.199-0.246
+				c-0.372-0.164-0.647-0.37-0.828-0.619c-0.18-0.248-0.306-0.552-0.379-0.912c-0.05-0.241-0.075-0.624-0.075-1.148v-4.498h1.23
+				v4.026c0,0.643,0.025,1.075,0.075,1.299c0.077,0.323,0.241,0.577,0.492,0.763c0.251,0.184,0.561,0.276,0.93,0.276
+				s0.716-0.095,1.039-0.284c0.323-0.188,0.553-0.446,0.688-0.771c0.134-0.326,0.201-0.799,0.201-1.419v-3.89h1.23v7.26H329.687z"/>
+			<path d="M332.715,60.734v-7.26h1.107v1.032c0.533-0.798,1.304-1.196,2.311-1.196c0.438,0,0.84,0.078,1.206,0.236
+				c0.367,0.156,0.642,0.363,0.824,0.618s0.31,0.559,0.383,0.909c0.046,0.228,0.068,0.627,0.068,1.196v4.464h-1.23v-4.416
+				c0-0.501-0.048-0.876-0.144-1.125c-0.096-0.248-0.266-0.446-0.509-0.594c-0.244-0.148-0.53-0.223-0.858-0.223
+				c-0.524,0-0.977,0.166-1.356,0.499c-0.381,0.333-0.571,0.964-0.571,1.894v3.965H332.715z"/>
+			<path d="M348.675,58.075l1.21,0.157c-0.132,0.834-0.471,1.486-1.015,1.959c-0.545,0.471-1.214,0.707-2.007,0.707
+				c-0.993,0-1.792-0.324-2.396-0.975c-0.604-0.648-0.906-1.58-0.906-2.792c0-0.784,0.13-1.47,0.39-2.058s0.655-1.029,1.187-1.322
+				c0.53-0.295,1.108-0.441,1.732-0.441c0.788,0,1.434,0.199,1.935,0.598c0.501,0.399,0.822,0.966,0.964,1.699l-1.196,0.185
+				c-0.114-0.487-0.315-0.854-0.604-1.101c-0.29-0.246-0.64-0.369-1.05-0.369c-0.62,0-1.123,0.223-1.511,0.666
+				c-0.388,0.445-0.581,1.147-0.581,2.109c0,0.976,0.187,1.684,0.561,2.126s0.861,0.663,1.463,0.663c0.483,0,0.887-0.148,1.21-0.444
+				S348.588,58.69,348.675,58.075z"/>
+			<path d="M355.675,59.839c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285
+				C355.793,60.479,355.711,60.181,355.675,59.839z M355.573,57.091c-0.446,0.183-1.116,0.337-2.01,0.465
+				c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399c-0.114,0.176-0.171,0.371-0.171,0.585
+				c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328c0.474,0,0.896-0.104,1.265-0.312
+				c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V57.091z"/>
+			<path d="M358.724,60.734v-7.26h1.101v1.019c0.228-0.355,0.531-0.642,0.909-0.858c0.378-0.216,0.809-0.324,1.292-0.324
+				c0.538,0,0.979,0.111,1.322,0.335c0.345,0.224,0.587,0.535,0.729,0.937c0.574-0.848,1.321-1.271,2.242-1.271
+				c0.72,0,1.273,0.199,1.661,0.598c0.388,0.399,0.581,1.014,0.581,1.843v4.983h-1.224v-4.573c0-0.492-0.04-0.847-0.12-1.063
+				c-0.079-0.216-0.224-0.391-0.434-0.522s-0.456-0.198-0.738-0.198c-0.511,0-0.935,0.17-1.271,0.51
+				c-0.337,0.339-0.506,0.883-0.506,1.63v4.218h-1.23v-4.717c0-0.547-0.101-0.957-0.301-1.23s-0.528-0.41-0.984-0.41
+				c-0.347,0-0.666,0.091-0.961,0.273c-0.293,0.183-0.507,0.449-0.639,0.8s-0.198,0.856-0.198,1.518v3.767H358.724z"/>
+			<path d="M370.386,63.517V53.475h1.121v0.943c0.265-0.369,0.563-0.646,0.896-0.83c0.333-0.186,0.736-0.277,1.21-0.277
+				c0.62,0,1.167,0.159,1.641,0.479s0.832,0.77,1.073,1.35c0.241,0.582,0.362,1.219,0.362,1.911c0,0.743-0.134,1.411-0.399,2.007
+				c-0.268,0.594-0.654,1.05-1.162,1.367c-0.509,0.316-1.043,0.475-1.604,0.475c-0.41,0-0.778-0.087-1.104-0.26
+				c-0.326-0.173-0.594-0.392-0.804-0.656v3.534H370.386z M371.5,57.145c0,0.935,0.189,1.625,0.567,2.071s0.836,0.67,1.374,0.67
+				c0.547,0,1.016-0.231,1.404-0.693c0.391-0.463,0.585-1.18,0.585-2.15c0-0.925-0.19-1.618-0.571-2.078
+				c-0.38-0.46-0.835-0.69-1.363-0.69c-0.524,0-0.988,0.245-1.391,0.735C371.701,55.499,371.5,56.211,371.5,57.145z"/>
+			<path d="M377.714,57.104c0-1.345,0.374-2.34,1.121-2.987c0.624-0.538,1.386-0.807,2.283-0.807c0.998,0,1.813,0.327,2.447,0.98
+				c0.634,0.654,0.95,1.558,0.95,2.711c0,0.935-0.14,1.669-0.421,2.205c-0.279,0.535-0.688,0.951-1.223,1.247
+				c-0.536,0.296-1.12,0.444-1.754,0.444c-1.017,0-1.838-0.326-2.465-0.978C378.028,59.269,377.714,58.33,377.714,57.104z
+				 M378.979,57.104c0,0.93,0.203,1.626,0.608,2.089c0.405,0.462,0.916,0.693,1.531,0.693c0.61,0,1.119-0.232,1.524-0.697
+				s0.608-1.174,0.608-2.126c0-0.897-0.204-1.578-0.611-2.04c-0.408-0.463-0.915-0.694-1.521-0.694c-0.615,0-1.126,0.23-1.531,0.69
+				S378.979,56.175,378.979,57.104z"/>
+			<path d="M394.106,60.734v-0.916c-0.46,0.72-1.137,1.08-2.03,1.08c-0.579,0-1.11-0.159-1.597-0.479
+				c-0.484-0.319-0.861-0.765-1.127-1.336c-0.268-0.572-0.4-1.229-0.4-1.973c0-0.725,0.121-1.382,0.362-1.973
+				c0.241-0.59,0.604-1.042,1.087-1.356s1.023-0.472,1.62-0.472c0.438,0,0.827,0.092,1.169,0.277
+				c0.342,0.184,0.62,0.425,0.834,0.721v-3.596h1.224v10.021H394.106z M390.216,57.111c0,0.93,0.196,1.625,0.588,2.085
+				s0.854,0.69,1.388,0.69c0.538,0,0.994-0.22,1.371-0.66c0.375-0.439,0.563-1.11,0.563-2.013c0-0.993-0.191-1.723-0.574-2.188
+				s-0.854-0.697-1.415-0.697c-0.547,0-1.004,0.224-1.371,0.67C390.4,55.445,390.216,56.149,390.216,57.111z"/>
+			<path d="M402.152,58.396l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S401.965,58.916,402.152,58.396z
+				 M398.112,56.407h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C398.366,55.268,398.153,55.773,398.112,56.407z"/>
+			<path d="M409.539,60.734h-1.142V50.713h1.23v3.575c0.52-0.651,1.183-0.978,1.989-0.978c0.446,0,0.869,0.09,1.269,0.27
+				c0.398,0.181,0.727,0.434,0.984,0.76c0.257,0.325,0.459,0.719,0.604,1.179s0.219,0.952,0.219,1.477
+				c0,1.244-0.308,2.206-0.923,2.885s-1.354,1.019-2.215,1.019c-0.856,0-1.529-0.357-2.017-1.073V60.734z M409.526,57.05
+				c0,0.87,0.118,1.499,0.355,1.887c0.388,0.634,0.911,0.95,1.572,0.95c0.538,0,1.003-0.233,1.395-0.701
+				c0.392-0.467,0.588-1.163,0.588-2.088c0-0.948-0.188-1.647-0.563-2.099c-0.377-0.451-0.831-0.677-1.364-0.677
+				c-0.538,0-1.003,0.233-1.395,0.701C409.722,55.49,409.526,56.166,409.526,57.05z"/>
+			<path d="M420.928,59.839c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285
+				C421.046,60.479,420.964,60.181,420.928,59.839z M420.825,57.091c-0.446,0.183-1.116,0.337-2.01,0.465
+				c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399c-0.114,0.176-0.171,0.371-0.171,0.585
+				c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328c0.474,0,0.896-0.104,1.265-0.312
+				c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V57.091z"/>
+			<path d="M423.485,58.567l1.217-0.191c0.068,0.487,0.259,0.861,0.571,1.121c0.312,0.26,0.748,0.39,1.309,0.39
+				c0.565,0,0.984-0.115,1.258-0.346c0.273-0.229,0.41-0.5,0.41-0.81c0-0.278-0.121-0.497-0.362-0.656
+				c-0.169-0.109-0.588-0.248-1.258-0.417c-0.902-0.228-1.528-0.425-1.876-0.592c-0.35-0.166-0.613-0.396-0.793-0.689
+				c-0.181-0.295-0.271-0.619-0.271-0.975c0-0.323,0.074-0.623,0.222-0.898c0.148-0.276,0.351-0.505,0.605-0.688
+				c0.191-0.142,0.452-0.261,0.783-0.359c0.33-0.098,0.685-0.146,1.063-0.146c0.569,0,1.07,0.082,1.5,0.246
+				c0.432,0.164,0.749,0.387,0.954,0.666c0.205,0.281,0.347,0.655,0.424,1.125l-1.203,0.164c-0.055-0.374-0.213-0.665-0.476-0.875
+				c-0.262-0.21-0.632-0.314-1.11-0.314c-0.565,0-0.969,0.094-1.21,0.28s-0.362,0.405-0.362,0.656c0,0.159,0.05,0.303,0.15,0.431
+				c0.101,0.132,0.258,0.241,0.472,0.328c0.123,0.046,0.485,0.15,1.087,0.314c0.87,0.232,1.478,0.423,1.821,0.57
+				c0.345,0.148,0.614,0.364,0.811,0.646s0.294,0.634,0.294,1.053c0,0.41-0.12,0.797-0.358,1.158
+				c-0.24,0.363-0.585,0.643-1.036,0.842c-0.451,0.197-0.962,0.297-1.531,0.297c-0.943,0-1.662-0.196-2.157-0.588
+				C423.937,59.919,423.621,59.338,423.485,58.567z"/>
+			<path d="M435.947,58.396l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S435.76,58.916,435.947,58.396z
+				 M431.907,56.407h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C432.16,55.268,431.948,55.773,431.907,56.407z"/>
+			<path d="M112.031,77.535v-0.916c-0.46,0.72-1.137,1.08-2.03,1.08c-0.579,0-1.11-0.159-1.597-0.479
+				c-0.484-0.319-0.861-0.765-1.127-1.336c-0.268-0.572-0.4-1.229-0.4-1.973c0-0.725,0.121-1.382,0.362-1.973
+				c0.241-0.59,0.604-1.042,1.087-1.356s1.023-0.472,1.62-0.472c0.438,0,0.827,0.092,1.169,0.277
+				c0.342,0.184,0.62,0.425,0.834,0.721v-3.596h1.224v10.021H112.031z M108.141,73.912c0,0.93,0.196,1.625,0.588,2.085
+				s0.854,0.69,1.388,0.69c0.538,0,0.994-0.22,1.371-0.66c0.375-0.439,0.563-1.11,0.563-2.013c0-0.993-0.191-1.723-0.574-2.188
+				s-0.854-0.697-1.415-0.697c-0.547,0-1.004,0.224-1.371,0.67C108.324,72.246,108.141,72.95,108.141,73.912z"/>
+			<path d="M120.076,75.197l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S119.89,75.717,120.076,75.197z
+				 M116.036,73.208h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C116.29,72.068,116.077,72.574,116.036,73.208z"/>
+			<path d="M135.815,77.535v-0.916c-0.46,0.72-1.137,1.08-2.03,1.08c-0.579,0-1.11-0.159-1.597-0.479
+				c-0.484-0.319-0.861-0.765-1.127-1.336c-0.268-0.572-0.4-1.229-0.4-1.973c0-0.725,0.121-1.382,0.362-1.973
+				c0.241-0.59,0.604-1.042,1.087-1.356s1.023-0.472,1.62-0.472c0.438,0,0.827,0.092,1.169,0.277
+				c0.342,0.184,0.62,0.425,0.834,0.721v-3.596h1.224v10.021H135.815z M131.925,73.912c0,0.93,0.196,1.625,0.588,2.085
+				s0.854,0.69,1.388,0.69c0.538,0,0.994-0.22,1.371-0.66c0.375-0.439,0.563-1.11,0.563-2.013c0-0.993-0.191-1.723-0.574-2.188
+				s-0.854-0.697-1.415-0.697c-0.547,0-1.004,0.224-1.371,0.67C132.109,72.246,131.925,72.95,131.925,73.912z"/>
+			<path d="M143.628,76.64c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285C143.746,77.28,143.664,76.981,143.628,76.64
+				z M143.526,73.892c-0.446,0.183-1.116,0.337-2.01,0.465c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399
+				c-0.114,0.176-0.171,0.371-0.171,0.585c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328
+				c0.474,0,0.896-0.104,1.265-0.312c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V73.892z"/>
+			<path d="M149.364,76.435l0.178,1.087c-0.347,0.073-0.656,0.109-0.93,0.109c-0.446,0-0.793-0.07-1.039-0.212
+				s-0.419-0.327-0.52-0.558c-0.101-0.229-0.15-0.714-0.15-1.452v-4.177H146v-0.957h0.902v-1.798l1.224-0.738v2.536h1.237v0.957
+				h-1.237v4.245c0,0.351,0.021,0.576,0.065,0.677c0.043,0.101,0.113,0.18,0.211,0.239c0.099,0.06,0.238,0.089,0.421,0.089
+				C148.96,76.482,149.14,76.467,149.364,76.435z"/>
+			<path d="M150.109,73.905c0-1.345,0.374-2.34,1.121-2.987c0.624-0.538,1.386-0.807,2.283-0.807c0.998,0,1.813,0.327,2.447,0.98
+				c0.634,0.654,0.95,1.558,0.95,2.711c0,0.935-0.14,1.669-0.421,2.205c-0.279,0.535-0.688,0.951-1.223,1.247
+				c-0.536,0.296-1.12,0.444-1.754,0.444c-1.017,0-1.838-0.326-2.465-0.978C150.422,76.07,150.109,75.131,150.109,73.905z
+				 M151.373,73.905c0,0.93,0.203,1.626,0.608,2.089c0.405,0.462,0.916,0.693,1.531,0.693c0.61,0,1.119-0.232,1.524-0.697
+				s0.608-1.174,0.608-2.126c0-0.897-0.204-1.578-0.611-2.04c-0.408-0.463-0.915-0.694-1.521-0.694c-0.615,0-1.126,0.23-1.531,0.69
+				S151.373,72.976,151.373,73.905z"/>
+			<path d="M157.861,75.368l1.217-0.191c0.068,0.487,0.259,0.861,0.571,1.121c0.312,0.26,0.748,0.39,1.309,0.39
+				c0.565,0,0.984-0.115,1.258-0.346c0.273-0.229,0.41-0.5,0.41-0.81c0-0.278-0.121-0.497-0.362-0.656
+				c-0.169-0.109-0.588-0.248-1.258-0.417c-0.902-0.228-1.528-0.425-1.876-0.592c-0.35-0.166-0.613-0.396-0.793-0.689
+				c-0.181-0.295-0.271-0.619-0.271-0.975c0-0.323,0.074-0.623,0.222-0.898c0.148-0.276,0.351-0.505,0.605-0.688
+				c0.191-0.142,0.452-0.261,0.783-0.359c0.33-0.098,0.685-0.146,1.063-0.146c0.569,0,1.07,0.082,1.5,0.246
+				c0.432,0.164,0.749,0.387,0.954,0.666c0.205,0.281,0.347,0.655,0.424,1.125l-1.203,0.164c-0.055-0.374-0.213-0.665-0.476-0.875
+				c-0.262-0.21-0.632-0.314-1.11-0.314c-0.565,0-0.969,0.094-1.21,0.28s-0.362,0.405-0.362,0.656c0,0.159,0.05,0.303,0.15,0.431
+				c0.101,0.132,0.258,0.241,0.472,0.328c0.123,0.046,0.485,0.15,1.087,0.314c0.87,0.232,1.478,0.423,1.821,0.57
+				c0.345,0.148,0.614,0.364,0.811,0.646s0.294,0.634,0.294,1.053c0,0.41-0.12,0.797-0.358,1.158
+				c-0.24,0.363-0.585,0.643-1.036,0.842c-0.451,0.197-0.962,0.297-1.531,0.297c-0.943,0-1.662-0.196-2.157-0.588
+				C158.313,76.72,157.997,76.139,157.861,75.368z"/>
+			<path d="M178.303,76.64c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285C178.421,77.28,178.339,76.981,178.303,76.64
+				z M178.2,73.892c-0.446,0.183-1.116,0.337-2.01,0.465c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399
+				c-0.114,0.176-0.171,0.371-0.171,0.585c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328
+				c0.474,0,0.896-0.104,1.265-0.312c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V73.892z"/>
+			<path d="M194.322,77.535v-1.066c-0.565,0.82-1.333,1.23-2.304,1.23c-0.429,0-0.828-0.082-1.199-0.246
+				c-0.372-0.164-0.647-0.37-0.828-0.619c-0.18-0.248-0.306-0.552-0.379-0.912c-0.05-0.241-0.075-0.624-0.075-1.148v-4.498h1.23
+				v4.026c0,0.643,0.025,1.075,0.075,1.299c0.077,0.323,0.241,0.577,0.492,0.763c0.251,0.184,0.561,0.276,0.93,0.276
+				s0.716-0.095,1.039-0.284c0.323-0.188,0.553-0.446,0.688-0.771c0.134-0.326,0.201-0.799,0.201-1.419v-3.89h1.23v7.26H194.322z"/>
+			<path d="M197.35,77.535v-7.26h1.107v1.032c0.533-0.798,1.304-1.196,2.311-1.196c0.438,0,0.84,0.078,1.206,0.236
+				c0.367,0.156,0.642,0.363,0.824,0.618s0.31,0.559,0.383,0.909c0.046,0.228,0.068,0.627,0.068,1.196v4.464h-1.23v-4.416
+				c0-0.501-0.048-0.876-0.144-1.125c-0.096-0.248-0.266-0.446-0.509-0.594c-0.244-0.148-0.53-0.223-0.858-0.223
+				c-0.524,0-0.977,0.166-1.356,0.499c-0.381,0.333-0.571,0.964-0.571,1.894v3.965H197.35z"/>
+			<path d="M218.318,75.197l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S218.131,75.717,218.318,75.197z
+				 M214.278,73.208h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C214.532,72.068,214.319,72.574,214.278,73.208z"/>
+			<path d="M221.107,77.535V67.514h1.23v10.021H221.107z"/>
+			<path d="M229.214,75.197l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S229.028,75.717,229.214,75.197z
+				 M225.174,73.208h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C225.428,72.068,225.215,72.574,225.174,73.208z"/>
+			<path d="M232.031,77.535v-7.26h1.101v1.019c0.228-0.355,0.531-0.642,0.909-0.858c0.378-0.216,0.809-0.324,1.292-0.324
+				c0.538,0,0.979,0.111,1.322,0.335c0.345,0.224,0.587,0.535,0.729,0.937c0.574-0.848,1.321-1.271,2.242-1.271
+				c0.72,0,1.273,0.199,1.661,0.598c0.388,0.399,0.581,1.014,0.581,1.843v4.983h-1.224v-4.573c0-0.492-0.04-0.847-0.12-1.063
+				c-0.079-0.216-0.224-0.391-0.434-0.522s-0.456-0.198-0.738-0.198c-0.511,0-0.935,0.17-1.271,0.51
+				c-0.337,0.339-0.506,0.883-0.506,1.63v4.218h-1.23v-4.717c0-0.547-0.101-0.957-0.301-1.23s-0.528-0.41-0.984-0.41
+				c-0.347,0-0.666,0.091-0.961,0.273c-0.293,0.183-0.507,0.449-0.639,0.8s-0.198,0.856-0.198,1.518v3.767H232.031z"/>
+			<path d="M248.662,75.197l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S248.476,75.717,248.662,75.197z
+				 M244.622,73.208h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C244.876,72.068,244.663,72.574,244.622,73.208z"/>
+			<path d="M251.479,77.535v-7.26h1.107v1.032c0.533-0.798,1.304-1.196,2.311-1.196c0.438,0,0.84,0.078,1.206,0.236
+				c0.367,0.156,0.642,0.363,0.824,0.618s0.31,0.559,0.383,0.909c0.046,0.228,0.068,0.627,0.068,1.196v4.464h-1.23v-4.416
+				c0-0.501-0.048-0.876-0.144-1.125c-0.096-0.248-0.266-0.446-0.509-0.594c-0.244-0.148-0.53-0.223-0.858-0.223
+				c-0.524,0-0.977,0.166-1.356,0.499c-0.381,0.333-0.571,0.964-0.571,1.894v3.965H251.479z"/>
+			<path d="M261.951,76.435l0.178,1.087c-0.347,0.073-0.656,0.109-0.93,0.109c-0.446,0-0.793-0.07-1.039-0.212
+				s-0.419-0.327-0.52-0.558c-0.101-0.229-0.15-0.714-0.15-1.452v-4.177h-0.902v-0.957h0.902v-1.798l1.224-0.738v2.536h1.237v0.957
+				h-1.237v4.245c0,0.351,0.021,0.576,0.065,0.677c0.043,0.101,0.113,0.18,0.211,0.239c0.099,0.06,0.238,0.089,0.421,0.089
+				C261.548,76.482,261.728,76.467,261.951,76.435z"/>
+			<path d="M262.697,73.905c0-1.345,0.374-2.34,1.121-2.987c0.624-0.538,1.386-0.807,2.283-0.807c0.998,0,1.813,0.327,2.447,0.98
+				c0.634,0.654,0.95,1.558,0.95,2.711c0,0.935-0.14,1.669-0.421,2.205c-0.279,0.535-0.688,0.951-1.223,1.247
+				c-0.536,0.296-1.12,0.444-1.754,0.444c-1.017,0-1.838-0.326-2.465-0.978C263.01,76.07,262.697,75.131,262.697,73.905z
+				 M263.961,73.905c0,0.93,0.203,1.626,0.608,2.089c0.405,0.462,0.916,0.693,1.531,0.693c0.61,0,1.119-0.232,1.524-0.697
+				s0.608-1.174,0.608-2.126c0-0.897-0.204-1.578-0.611-2.04c-0.408-0.463-0.915-0.694-1.521-0.694c-0.615,0-1.126,0.23-1.531,0.69
+				S263.961,72.976,263.961,73.905z"/>
+			<path d="M279.351,77.535V67.514h1.326v4.115h5.209v-4.115h1.326v10.021h-1.326v-4.724h-5.209v4.724H279.351z"/>
+			<path d="M291.97,77.535v-8.839h-3.302v-1.183h7.943v1.183h-3.315v8.839H291.97z"/>
+			<path d="M297.931,77.535V67.514h1.996l2.372,7.096c0.219,0.661,0.378,1.155,0.479,1.483c0.114-0.364,0.292-0.9,0.533-1.606
+				l2.399-6.973h1.784v10.021h-1.278v-8.388l-2.912,8.388h-1.196l-2.898-8.531v8.531H297.931z"/>
+			<path d="M309.579,77.535V67.514h1.326v8.839h4.936v1.183H309.579z"/>
+			<path d="M317.584,77.535v-1.401h1.401v1.401c0,0.515-0.091,0.931-0.273,1.248c-0.183,0.316-0.472,0.562-0.868,0.734l-0.342-0.526
+				c0.26-0.114,0.451-0.281,0.574-0.503c0.123-0.221,0.191-0.538,0.205-0.953H317.584z"/>
+			<path d="M329.14,78.137l1.196,0.178c0.05,0.369,0.189,0.638,0.417,0.807c0.306,0.228,0.723,0.342,1.251,0.342
+				c0.569,0,1.01-0.114,1.319-0.342s0.52-0.547,0.629-0.957c0.063-0.251,0.094-0.777,0.089-1.579c-0.538,0.634-1.208,0.95-2.01,0.95
+				c-0.998,0-1.771-0.36-2.317-1.08s-0.82-1.584-0.82-2.591c0-0.692,0.125-1.332,0.376-1.917c0.251-0.586,0.614-1.038,1.091-1.357
+				c0.476-0.319,1.035-0.479,1.678-0.479c0.856,0,1.563,0.347,2.119,1.039v-0.875h1.135v6.275c0,1.13-0.115,1.932-0.346,2.402
+				c-0.229,0.473-0.594,0.845-1.094,1.118c-0.498,0.273-1.112,0.41-1.842,0.41c-0.866,0-1.565-0.194-2.099-0.585
+				C329.379,79.508,329.121,78.921,329.14,78.137z M330.158,73.775c0,0.952,0.189,1.647,0.567,2.085s0.853,0.656,1.422,0.656
+				c0.565,0,1.039-0.218,1.422-0.653c0.383-0.435,0.574-1.117,0.574-2.047c0-0.889-0.197-1.559-0.592-2.01
+				c-0.394-0.451-0.869-0.677-1.425-0.677c-0.547,0-1.012,0.222-1.395,0.667C330.35,72.24,330.158,72.9,330.158,73.775z"/>
+			<path d="M342.121,75.197l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S341.935,75.717,342.121,75.197z
+				 M338.081,73.208h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C338.335,72.068,338.122,72.574,338.081,73.208z"/>
+			<path d="M344.938,77.535v-7.26h1.107v1.032c0.533-0.798,1.304-1.196,2.311-1.196c0.438,0,0.84,0.078,1.206,0.236
+				c0.367,0.156,0.642,0.363,0.824,0.618s0.31,0.559,0.383,0.909c0.046,0.228,0.068,0.627,0.068,1.196v4.464h-1.23v-4.416
+				c0-0.501-0.048-0.876-0.144-1.125c-0.096-0.248-0.266-0.446-0.509-0.594c-0.244-0.148-0.53-0.223-0.858-0.223
+				c-0.524,0-0.977,0.166-1.356,0.499c-0.381,0.333-0.571,0.964-0.571,1.894v3.965H344.938z"/>
+			<path d="M357.694,75.197l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S357.507,75.717,357.694,75.197z
+				 M353.654,73.208h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C353.908,72.068,353.695,72.574,353.654,73.208z"/>
+			<path d="M360.496,77.535v-7.26h1.107v1.101c0.282-0.515,0.544-0.854,0.782-1.019c0.24-0.164,0.503-0.246,0.79-0.246
+				c0.415,0,0.836,0.132,1.265,0.396l-0.424,1.142c-0.301-0.178-0.602-0.267-0.902-0.267c-0.269,0-0.511,0.081-0.725,0.242
+				c-0.214,0.162-0.367,0.387-0.458,0.674c-0.137,0.438-0.205,0.916-0.205,1.436v3.801H360.496z"/>
+			<path d="M369.909,76.64c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285C370.028,77.28,369.946,76.981,369.909,76.64
+				z M369.807,73.892c-0.446,0.183-1.116,0.337-2.01,0.465c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399
+				c-0.114,0.176-0.171,0.371-0.171,0.585c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328
+				c0.474,0,0.896-0.104,1.265-0.312c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V73.892z"/>
+			<path d="M372.931,77.535V67.514h1.23v10.021H372.931z"/>
+			<path d="M376.069,77.535v-7.26h1.101v1.019c0.228-0.355,0.531-0.642,0.909-0.858c0.378-0.216,0.809-0.324,1.292-0.324
+				c0.538,0,0.979,0.111,1.322,0.335c0.345,0.224,0.587,0.535,0.729,0.937c0.574-0.848,1.321-1.271,2.242-1.271
+				c0.72,0,1.273,0.199,1.661,0.598c0.388,0.399,0.581,1.014,0.581,1.843v4.983h-1.224v-4.573c0-0.492-0.04-0.847-0.12-1.063
+				c-0.079-0.216-0.224-0.391-0.434-0.522s-0.456-0.198-0.738-0.198c-0.511,0-0.935,0.17-1.271,0.51
+				c-0.337,0.339-0.506,0.883-0.506,1.63v4.218h-1.23v-4.717c0-0.547-0.101-0.957-0.301-1.23s-0.528-0.41-0.984-0.41
+				c-0.347,0-0.666,0.091-0.961,0.273c-0.293,0.183-0.507,0.449-0.639,0.8s-0.198,0.856-0.198,1.518v3.767H376.069z"/>
+			<path d="M392.7,75.197l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S392.514,75.717,392.7,75.197z
+				 M388.66,73.208h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C388.914,72.068,388.701,72.574,388.66,73.208z"/>
+			<path d="M395.517,77.535v-7.26h1.107v1.032c0.533-0.798,1.304-1.196,2.311-1.196c0.438,0,0.84,0.078,1.206,0.236
+				c0.367,0.156,0.642,0.363,0.824,0.618s0.31,0.559,0.383,0.909c0.046,0.228,0.068,0.627,0.068,1.196v4.464h-1.23v-4.416
+				c0-0.501-0.048-0.876-0.144-1.125c-0.096-0.248-0.266-0.446-0.509-0.594c-0.244-0.148-0.53-0.223-0.858-0.223
+				c-0.524,0-0.977,0.166-1.356,0.499c-0.381,0.333-0.571,0.964-0.571,1.894v3.965H395.517z"/>
+			<path d="M405.99,76.435l0.178,1.087c-0.347,0.073-0.656,0.109-0.93,0.109c-0.446,0-0.793-0.07-1.039-0.212
+				s-0.419-0.327-0.52-0.558c-0.101-0.229-0.15-0.714-0.15-1.452v-4.177h-0.902v-0.957h0.902v-1.798l1.224-0.738v2.536h1.237v0.957
+				h-1.237v4.245c0,0.351,0.021,0.576,0.065,0.677c0.043,0.101,0.113,0.18,0.211,0.239c0.099,0.06,0.238,0.089,0.421,0.089
+				C405.586,76.482,405.766,76.467,405.99,76.435z"/>
+			<path d="M412.162,75.197l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S411.976,75.717,412.162,75.197z
+				 M408.122,73.208h4.054c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C408.376,72.068,408.163,72.574,408.122,73.208z"/>
+			<path d="M427.949,77.535v-1.066c-0.565,0.82-1.333,1.23-2.304,1.23c-0.429,0-0.828-0.082-1.199-0.246
+				c-0.372-0.164-0.647-0.37-0.828-0.619c-0.18-0.248-0.306-0.552-0.379-0.912c-0.05-0.241-0.075-0.624-0.075-1.148v-4.498h1.23
+				v4.026c0,0.643,0.025,1.075,0.075,1.299c0.077,0.323,0.241,0.577,0.492,0.763c0.251,0.184,0.561,0.276,0.93,0.276
+				s0.716-0.095,1.039-0.284c0.323-0.188,0.553-0.446,0.688-0.771c0.134-0.326,0.201-0.799,0.201-1.419v-3.89h1.23v7.26H427.949z"/>
+			<path d="M430.977,77.535v-7.26h1.107v1.032c0.533-0.798,1.304-1.196,2.311-1.196c0.438,0,0.84,0.078,1.206,0.236
+				c0.367,0.156,0.642,0.363,0.824,0.618s0.31,0.559,0.383,0.909c0.046,0.228,0.068,0.627,0.068,1.196v4.464h-1.23v-4.416
+				c0-0.501-0.048-0.876-0.144-1.125c-0.096-0.248-0.266-0.446-0.509-0.594c-0.244-0.148-0.53-0.223-0.858-0.223
+				c-0.524,0-0.977,0.166-1.356,0.499c-0.381,0.333-0.571,0.964-0.571,1.894v3.965H430.977z"/>
+			<path d="M112.058,91.676l1.21,0.157c-0.132,0.834-0.471,1.486-1.015,1.959c-0.545,0.471-1.214,0.707-2.007,0.707
+				c-0.993,0-1.792-0.324-2.396-0.975c-0.604-0.648-0.906-1.58-0.906-2.792c0-0.784,0.13-1.47,0.39-2.058s0.655-1.029,1.187-1.322
+				c0.53-0.295,1.108-0.441,1.732-0.441c0.788,0,1.434,0.199,1.935,0.598c0.501,0.399,0.822,0.966,0.964,1.699l-1.196,0.185
+				c-0.114-0.487-0.315-0.854-0.604-1.101c-0.29-0.246-0.64-0.369-1.05-0.369c-0.62,0-1.123,0.223-1.511,0.666
+				c-0.388,0.445-0.581,1.147-0.581,2.109c0,0.976,0.187,1.684,0.561,2.126s0.861,0.663,1.463,0.663c0.483,0,0.887-0.148,1.21-0.444
+				S111.971,92.291,112.058,91.676z"/>
+			<path d="M119.058,93.439c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285
+				C119.176,94.08,119.094,93.781,119.058,93.439z M118.955,90.691c-0.446,0.183-1.116,0.337-2.01,0.465
+				c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399c-0.114,0.176-0.171,0.371-0.171,0.585
+				c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328c0.474,0,0.896-0.104,1.265-0.312
+				c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V90.691z"/>
+			<path d="M122.107,94.335v-7.26h1.101v1.019c0.228-0.355,0.531-0.642,0.909-0.858c0.378-0.216,0.809-0.324,1.292-0.324
+				c0.538,0,0.979,0.111,1.322,0.335c0.345,0.224,0.587,0.535,0.729,0.937c0.574-0.848,1.321-1.271,2.242-1.271
+				c0.72,0,1.273,0.199,1.661,0.598c0.388,0.399,0.581,1.014,0.581,1.843v4.983h-1.224v-4.573c0-0.492-0.04-0.847-0.12-1.063
+				c-0.079-0.216-0.224-0.391-0.434-0.522s-0.456-0.198-0.738-0.198c-0.511,0-0.935,0.17-1.271,0.51
+				c-0.337,0.339-0.506,0.883-0.506,1.63v4.218h-1.23v-4.717c0-0.547-0.101-0.957-0.301-1.23s-0.528-0.41-0.984-0.41
+				c-0.347,0-0.666,0.091-0.961,0.273c-0.293,0.183-0.507,0.449-0.639,0.8s-0.198,0.856-0.198,1.518v3.767H122.107z"/>
+			<path d="M133.769,97.117V87.075h1.121v0.943c0.265-0.369,0.563-0.646,0.896-0.83c0.333-0.186,0.736-0.277,1.21-0.277
+				c0.62,0,1.167,0.159,1.641,0.479s0.832,0.77,1.073,1.35c0.241,0.582,0.362,1.219,0.362,1.911c0,0.743-0.134,1.411-0.399,2.007
+				c-0.268,0.594-0.654,1.05-1.162,1.367c-0.509,0.316-1.043,0.475-1.604,0.475c-0.41,0-0.778-0.087-1.104-0.26
+				c-0.326-0.173-0.594-0.392-0.804-0.656v3.534H133.769z M134.883,90.746c0,0.935,0.189,1.625,0.567,2.071s0.836,0.67,1.374,0.67
+				c0.547,0,1.016-0.231,1.404-0.693c0.391-0.463,0.585-1.18,0.585-2.15c0-0.925-0.19-1.618-0.571-2.078
+				c-0.38-0.46-0.835-0.69-1.363-0.69c-0.524,0-0.988,0.245-1.391,0.735C135.084,89.1,134.883,89.811,134.883,90.746z"/>
+			<path d="M141.097,90.705c0-1.345,0.374-2.34,1.121-2.987c0.624-0.538,1.386-0.807,2.283-0.807c0.998,0,1.813,0.327,2.447,0.98
+				c0.634,0.654,0.95,1.558,0.95,2.711c0,0.935-0.14,1.669-0.421,2.205c-0.279,0.535-0.688,0.951-1.223,1.247
+				c-0.536,0.296-1.12,0.444-1.754,0.444c-1.017,0-1.838-0.326-2.465-0.978C141.41,92.87,141.097,91.931,141.097,90.705z
+				 M142.362,90.705c0,0.93,0.203,1.626,0.608,2.089c0.405,0.462,0.916,0.693,1.531,0.693c0.61,0,1.119-0.232,1.524-0.697
+				s0.608-1.174,0.608-2.126c0-0.897-0.204-1.578-0.611-2.04c-0.408-0.463-0.915-0.694-1.521-0.694c-0.615,0-1.126,0.23-1.531,0.69
+				S142.362,89.775,142.362,90.705z"/>
+			<path d="M157.941,94.335v-0.916c-0.46,0.72-1.137,1.08-2.03,1.08c-0.579,0-1.11-0.159-1.597-0.479
+				c-0.484-0.319-0.861-0.765-1.127-1.336c-0.268-0.572-0.4-1.229-0.4-1.973c0-0.725,0.121-1.382,0.362-1.973
+				c0.241-0.59,0.604-1.042,1.087-1.356s1.023-0.472,1.62-0.472c0.438,0,0.827,0.092,1.169,0.277
+				c0.342,0.184,0.62,0.425,0.834,0.721v-3.596h1.224v10.021H157.941z M154.051,90.712c0,0.93,0.196,1.625,0.588,2.085
+				s0.854,0.69,1.388,0.69c0.538,0,0.994-0.22,1.371-0.66c0.375-0.439,0.563-1.11,0.563-2.013c0-0.993-0.191-1.723-0.574-2.188
+				s-0.854-0.697-1.415-0.697c-0.547,0-1.004,0.224-1.371,0.67C154.235,89.046,154.051,89.75,154.051,90.712z"/>
+			<path d="M165.987,91.997l1.271,0.157c-0.2,0.743-0.572,1.319-1.114,1.729s-1.235,0.615-2.078,0.615
+				c-1.062,0-1.903-0.327-2.526-0.98c-0.621-0.654-0.933-1.571-0.933-2.752c0-1.222,0.314-2.169,0.943-2.844
+				s1.444-1.012,2.447-1.012c0.971,0,1.764,0.33,2.379,0.991s0.923,1.591,0.923,2.789c0,0.073-0.002,0.183-0.007,0.328h-5.414
+				c0.046,0.798,0.271,1.408,0.677,1.832s0.911,0.636,1.518,0.636c0.451,0,0.836-0.118,1.155-0.355S165.8,92.517,165.987,91.997z
+				 M161.947,90.008H166c-0.055-0.61-0.21-1.068-0.465-1.374c-0.392-0.474-0.9-0.711-1.524-0.711c-0.565,0-1.04,0.189-1.425,0.567
+				C162.2,88.868,161.988,89.374,161.947,90.008z"/>
+			<path d="M177.45,94.335v-1.066c-0.565,0.82-1.333,1.23-2.304,1.23c-0.429,0-0.828-0.082-1.199-0.246
+				c-0.372-0.164-0.647-0.37-0.828-0.619c-0.18-0.248-0.306-0.552-0.379-0.912c-0.05-0.241-0.075-0.624-0.075-1.148v-4.498h1.23
+				v4.026c0,0.643,0.025,1.075,0.075,1.299c0.077,0.323,0.241,0.577,0.492,0.763c0.251,0.184,0.561,0.276,0.93,0.276
+				s0.716-0.095,1.039-0.284c0.323-0.188,0.553-0.446,0.688-0.771c0.134-0.326,0.201-0.799,0.201-1.419v-3.89h1.23v7.26H177.45z"/>
+			<path d="M180.479,94.335v-7.26h1.107v1.032c0.533-0.798,1.304-1.196,2.311-1.196c0.438,0,0.84,0.078,1.206,0.236
+				c0.367,0.156,0.642,0.363,0.824,0.618s0.31,0.559,0.383,0.909c0.046,0.228,0.068,0.627,0.068,1.196v4.464h-1.23v-4.416
+				c0-0.501-0.048-0.876-0.144-1.125c-0.096-0.248-0.266-0.446-0.509-0.594c-0.244-0.148-0.53-0.223-0.858-0.223
+				c-0.524,0-0.977,0.166-1.356,0.499c-0.381,0.333-0.571,0.964-0.571,1.894v3.965H180.479z"/>
+			<path d="M192.449,94.335v-6.303h-1.087v-0.957h1.087v-0.772c0-0.487,0.043-0.85,0.13-1.087c0.118-0.319,0.327-0.578,0.626-0.775
+				c0.298-0.199,0.716-0.298,1.254-0.298c0.347,0,0.729,0.041,1.148,0.123l-0.185,1.073c-0.255-0.046-0.497-0.068-0.725-0.068
+				c-0.374,0-0.638,0.08-0.793,0.239s-0.232,0.458-0.232,0.896v0.67h1.415v0.957h-1.415v6.303H192.449z"/>
+			<path d="M195.586,90.705c0-1.345,0.374-2.34,1.121-2.987c0.624-0.538,1.386-0.807,2.283-0.807c0.998,0,1.813,0.327,2.447,0.98
+				c0.634,0.654,0.95,1.558,0.95,2.711c0,0.935-0.14,1.669-0.421,2.205c-0.279,0.535-0.688,0.951-1.223,1.247
+				c-0.536,0.296-1.12,0.444-1.754,0.444c-1.017,0-1.838-0.326-2.465-0.978C195.9,92.87,195.586,91.931,195.586,90.705z
+				 M196.851,90.705c0,0.93,0.203,1.626,0.608,2.089c0.405,0.462,0.916,0.693,1.531,0.693c0.61,0,1.119-0.232,1.524-0.697
+				s0.608-1.174,0.608-2.126c0-0.897-0.204-1.578-0.611-2.04c-0.408-0.463-0.915-0.694-1.521-0.694c-0.615,0-1.126,0.23-1.531,0.69
+				S196.851,89.775,196.851,90.705z"/>
+			<path d="M203.817,94.335v-7.26h1.107v1.101c0.282-0.515,0.544-0.854,0.782-1.019c0.24-0.164,0.503-0.246,0.79-0.246
+				c0.415,0,0.836,0.132,1.265,0.396l-0.424,1.142c-0.301-0.178-0.602-0.267-0.902-0.267c-0.269,0-0.511,0.081-0.725,0.242
+				c-0.214,0.162-0.367,0.387-0.458,0.674c-0.137,0.438-0.205,0.916-0.205,1.436v3.801H203.817z"/>
+			<path d="M208.492,94.335v-7.26h1.101v1.019c0.228-0.355,0.531-0.642,0.909-0.858c0.378-0.216,0.809-0.324,1.292-0.324
+				c0.538,0,0.979,0.111,1.322,0.335c0.345,0.224,0.587,0.535,0.729,0.937c0.574-0.848,1.321-1.271,2.242-1.271
+				c0.72,0,1.273,0.199,1.661,0.598c0.388,0.399,0.581,1.014,0.581,1.843v4.983h-1.224v-4.573c0-0.492-0.04-0.847-0.12-1.063
+				c-0.079-0.216-0.224-0.391-0.434-0.522s-0.456-0.198-0.738-0.198c-0.511,0-0.935,0.17-1.271,0.51
+				c-0.337,0.339-0.506,0.883-0.506,1.63v4.218h-1.23v-4.717c0-0.547-0.101-0.957-0.301-1.23s-0.528-0.41-0.984-0.41
+				c-0.347,0-0.666,0.091-0.961,0.273c-0.293,0.183-0.507,0.449-0.639,0.8s-0.198,0.856-0.198,1.518v3.767H208.492z"/>
+			<path d="M224.912,94.335v-1.066c-0.565,0.82-1.333,1.23-2.304,1.23c-0.429,0-0.828-0.082-1.199-0.246
+				c-0.372-0.164-0.647-0.37-0.828-0.619c-0.18-0.248-0.306-0.552-0.379-0.912c-0.05-0.241-0.075-0.624-0.075-1.148v-4.498h1.23
+				v4.026c0,0.643,0.025,1.075,0.075,1.299c0.077,0.323,0.241,0.577,0.492,0.763c0.251,0.184,0.561,0.276,0.93,0.276
+				s0.716-0.095,1.039-0.284c0.323-0.188,0.553-0.446,0.688-0.771c0.134-0.326,0.201-0.799,0.201-1.419v-3.89h1.23v7.26H224.912z"/>
+			<path d="M227.913,94.335V84.313h1.23v10.021H227.913z"/>
+			<path d="M235.788,93.439c-0.456,0.388-0.895,0.661-1.316,0.82c-0.421,0.159-0.873,0.239-1.356,0.239
+				c-0.798,0-1.41-0.195-1.839-0.584c-0.429-0.391-0.643-0.888-0.643-1.494c0-0.355,0.081-0.68,0.242-0.975
+				c0.162-0.293,0.374-0.529,0.637-0.707c0.262-0.178,0.557-0.313,0.885-0.403c0.241-0.063,0.606-0.125,1.094-0.185
+				c0.993-0.118,1.725-0.26,2.194-0.424c0.005-0.169,0.007-0.275,0.007-0.321c0-0.501-0.116-0.854-0.349-1.06
+				c-0.314-0.278-0.781-0.417-1.401-0.417c-0.579,0-1.006,0.102-1.281,0.304c-0.276,0.203-0.48,0.563-0.612,1.077l-1.203-0.164
+				c0.109-0.515,0.289-0.931,0.54-1.247c0.251-0.317,0.613-0.561,1.087-0.732c0.474-0.17,1.023-0.256,1.647-0.256
+				c0.62,0,1.123,0.073,1.511,0.219s0.672,0.329,0.854,0.551c0.183,0.221,0.31,0.5,0.383,0.837c0.041,0.21,0.062,0.588,0.062,1.135
+				v1.641c0,1.144,0.026,1.867,0.079,2.171c0.052,0.303,0.155,0.593,0.311,0.871h-1.285
+				C235.907,94.08,235.824,93.781,235.788,93.439z M235.686,90.691c-0.446,0.183-1.116,0.337-2.01,0.465
+				c-0.506,0.073-0.863,0.155-1.073,0.246s-0.371,0.225-0.485,0.399c-0.114,0.176-0.171,0.371-0.171,0.585
+				c0,0.328,0.124,0.602,0.373,0.82c0.248,0.219,0.611,0.328,1.09,0.328c0.474,0,0.896-0.104,1.265-0.312
+				c0.369-0.207,0.641-0.49,0.813-0.851c0.132-0.278,0.198-0.688,0.198-1.23V90.691z"/>
+			<path d="M238.824,94.335v-7.26h1.107v1.101c0.282-0.515,0.544-0.854,0.782-1.019c0.24-0.164,0.503-0.246,0.79-0.246
+				c0.415,0,0.836,0.132,1.265,0.396l-0.424,1.142c-0.301-0.178-0.602-0.267-0.902-0.267c-0.269,0-0.511,0.081-0.725,0.242
+				c-0.214,0.162-0.367,0.387-0.458,0.674c-0.137,0.438-0.205,0.916-0.205,1.436v3.801H238.824z"/>
+			<path d="M243.506,85.728v-1.415h1.23v1.415H243.506z M243.506,94.335v-7.26h1.23v7.26H243.506z"/>
+			<path d="M246.152,90.705c0-1.345,0.374-2.34,1.121-2.987c0.624-0.538,1.386-0.807,2.283-0.807c0.998,0,1.813,0.327,2.447,0.98
+				c0.634,0.654,0.95,1.558,0.95,2.711c0,0.935-0.14,1.669-0.421,2.205c-0.279,0.535-0.688,0.951-1.223,1.247
+				c-0.536,0.296-1.12,0.444-1.754,0.444c-1.017,0-1.838-0.326-2.465-0.978C246.465,92.87,246.152,91.931,246.152,90.705z
+				 M247.416,90.705c0,0.93,0.203,1.626,0.608,2.089c0.405,0.462,0.916,0.693,1.531,0.693c0.61,0,1.119-0.232,1.524-0.697
+				s0.608-1.174,0.608-2.126c0-0.897-0.204-1.578-0.611-2.04c-0.408-0.463-0.915-0.694-1.521-0.694c-0.615,0-1.126,0.23-1.531,0.69
+				S247.416,89.775,247.416,90.705z"/>
+			<path d="M254.744,94.335v-1.401h1.401v1.401H254.744z"/>
+		</g>
+	</g>
+	<g>
+		<path class="st1" d="M107.336,21.024h3.434c0.775,0,1.365,0.06,1.771,0.178c0.546,0.161,1.014,0.446,1.402,0.856
+			c0.39,0.411,0.686,0.913,0.889,1.508s0.305,1.328,0.305,2.199c0,0.767-0.095,1.427-0.285,1.98
+			c-0.232,0.678-0.564,1.226-0.996,1.645c-0.326,0.317-0.767,0.564-1.32,0.742c-0.415,0.132-0.97,0.197-1.664,0.197h-3.535V21.024z
+			 M109.215,22.599v6.163h1.402c0.525,0,0.904-0.029,1.137-0.088c0.305-0.076,0.558-0.206,0.759-0.388s0.364-0.481,0.491-0.898
+			s0.191-0.984,0.191-1.704s-0.064-1.271-0.191-1.656c-0.127-0.386-0.305-0.686-0.533-0.902c-0.229-0.215-0.518-0.361-0.869-0.438
+			c-0.263-0.06-0.776-0.089-1.543-0.089H109.215z"/>
+		<path class="st1" d="M118.05,25.645l-1.618-0.292c0.182-0.651,0.495-1.134,0.939-1.447s1.104-0.47,1.98-0.47
+			c0.796,0,1.388,0.094,1.777,0.282s0.663,0.428,0.822,0.718c0.158,0.29,0.237,0.821,0.237,1.597l-0.019,2.082
+			c0,0.592,0.028,1.029,0.086,1.311c0.057,0.281,0.164,0.583,0.32,0.904h-1.765c-0.047-0.118-0.104-0.294-0.172-0.527
+			c-0.029-0.105-0.051-0.175-0.063-0.209c-0.305,0.296-0.631,0.519-0.979,0.666c-0.347,0.148-0.717,0.223-1.11,0.223
+			c-0.694,0-1.241-0.188-1.641-0.564c-0.4-0.377-0.601-0.854-0.601-1.429c0-0.381,0.092-0.721,0.273-1.019
+			c0.182-0.299,0.437-0.527,0.765-0.686c0.328-0.159,0.801-0.298,1.419-0.416c0.834-0.156,1.411-0.303,1.732-0.438v-0.178
+			c0-0.344-0.084-0.588-0.254-0.733c-0.169-0.146-0.488-0.22-0.958-0.22c-0.317,0-0.565,0.063-0.743,0.188
+			S118.16,25.332,118.05,25.645z M120.437,27.093c-0.229,0.076-0.59,0.167-1.085,0.272c-0.495,0.106-0.819,0.21-0.972,0.312
+			c-0.232,0.165-0.349,0.374-0.349,0.628c0,0.25,0.093,0.466,0.279,0.648c0.187,0.182,0.423,0.272,0.711,0.272
+			c0.321,0,0.628-0.105,0.921-0.317c0.215-0.161,0.357-0.357,0.425-0.59c0.047-0.152,0.069-0.442,0.069-0.87V27.093z"/>
+		<path class="st1" d="M127.039,23.589v1.422h-1.219v2.717c0,0.55,0.012,0.871,0.035,0.962s0.076,0.166,0.158,0.225
+			c0.083,0.06,0.184,0.09,0.302,0.09c0.165,0,0.404-0.058,0.717-0.172l0.152,1.384c-0.414,0.178-0.884,0.267-1.408,0.267
+			c-0.322,0-0.612-0.054-0.87-0.162c-0.258-0.107-0.447-0.247-0.568-0.419c-0.12-0.171-0.204-0.403-0.251-0.694
+			c-0.037-0.208-0.057-0.627-0.057-1.258v-2.938h-0.818v-1.422h0.818V22.25l1.79-1.041v2.38H127.039z"/>
+		<path class="st1" d="M129.61,25.645l-1.618-0.292c0.182-0.651,0.495-1.134,0.939-1.447s1.104-0.47,1.98-0.47
+			c0.796,0,1.388,0.094,1.777,0.282s0.663,0.428,0.822,0.718c0.158,0.29,0.237,0.821,0.237,1.597l-0.019,2.082
+			c0,0.592,0.028,1.029,0.086,1.311c0.057,0.281,0.164,0.583,0.32,0.904h-1.765c-0.047-0.118-0.104-0.294-0.172-0.527
+			c-0.029-0.105-0.051-0.175-0.063-0.209c-0.305,0.296-0.631,0.519-0.979,0.666c-0.347,0.148-0.717,0.223-1.11,0.223
+			c-0.694,0-1.241-0.188-1.641-0.564c-0.4-0.377-0.601-0.854-0.601-1.429c0-0.381,0.092-0.721,0.273-1.019
+			c0.182-0.299,0.437-0.527,0.765-0.686c0.328-0.159,0.801-0.298,1.419-0.416c0.834-0.156,1.411-0.303,1.732-0.438v-0.178
+			c0-0.344-0.084-0.588-0.254-0.733c-0.169-0.146-0.488-0.22-0.958-0.22c-0.317,0-0.565,0.063-0.743,0.188
+			S129.72,25.332,129.61,25.645z M131.996,27.093c-0.229,0.076-0.59,0.167-1.085,0.272c-0.495,0.106-0.819,0.21-0.972,0.312
+			c-0.232,0.165-0.349,0.374-0.349,0.628c0,0.25,0.093,0.466,0.279,0.648c0.187,0.182,0.423,0.272,0.711,0.272
+			c0.321,0,0.628-0.105,0.921-0.317c0.215-0.161,0.357-0.357,0.425-0.59c0.047-0.152,0.069-0.442,0.069-0.87V27.093z"/>
+		<path class="st1" d="M139.138,21.024h3.72c0.736,0,1.285,0.03,1.647,0.092c0.361,0.062,0.686,0.189,0.971,0.384
+			c0.286,0.195,0.524,0.454,0.714,0.778c0.191,0.323,0.286,0.687,0.286,1.089c0,0.436-0.117,0.835-0.353,1.199
+			c-0.234,0.364-0.553,0.637-0.955,0.818c0.567,0.166,1.003,0.447,1.308,0.845s0.457,0.865,0.457,1.403
+			c0,0.423-0.099,0.834-0.295,1.234c-0.197,0.399-0.466,0.719-0.807,0.958s-0.761,0.387-1.26,0.441
+			c-0.313,0.034-1.068,0.055-2.267,0.063h-3.167V21.024z M141.017,22.573v2.151h1.231c0.732,0,1.188-0.01,1.365-0.031
+			c0.321-0.038,0.574-0.149,0.758-0.333c0.185-0.185,0.276-0.427,0.276-0.728c0-0.287-0.079-0.521-0.238-0.701
+			c-0.158-0.18-0.395-0.289-0.708-0.326c-0.186-0.021-0.721-0.032-1.605-0.032H141.017z M141.017,26.273v2.488h1.739
+			c0.677,0,1.106-0.019,1.289-0.057c0.279-0.051,0.506-0.175,0.682-0.371c0.176-0.197,0.264-0.461,0.264-0.791
+			c0-0.279-0.067-0.516-0.203-0.711c-0.136-0.194-0.331-0.336-0.587-0.425s-0.812-0.134-1.667-0.134H141.017z"/>
+		<path class="st1" d="M148.507,22.675v-1.65h1.783v1.65H148.507z M148.507,30.33v-6.741h1.783v6.741H148.507z"/>
+		<path class="st1" d="M158.25,30.33h-1.783v-3.44c0-0.728-0.038-1.198-0.114-1.412s-0.2-0.38-0.371-0.499
+			c-0.172-0.118-0.378-0.178-0.619-0.178c-0.309,0-0.586,0.085-0.831,0.254c-0.246,0.17-0.414,0.395-0.505,0.674
+			s-0.137,0.795-0.137,1.549v3.053h-1.784v-6.741h1.657v0.99c0.588-0.762,1.329-1.143,2.222-1.143c0.394,0,0.753,0.071,1.079,0.213
+			s0.572,0.322,0.739,0.542c0.167,0.221,0.284,0.471,0.35,0.75s0.098,0.679,0.098,1.199V30.33z"/>
+		<path class="st1" d="M166.241,30.33h-1.656v-0.99c-0.275,0.385-0.6,0.672-0.975,0.86c-0.374,0.188-0.752,0.282-1.133,0.282
+			c-0.774,0-1.438-0.313-1.99-0.937c-0.552-0.624-0.828-1.495-0.828-2.612c0-1.143,0.269-2.011,0.807-2.605
+			c0.537-0.595,1.216-0.892,2.037-0.892c0.753,0,1.405,0.313,1.955,0.939v-3.352h1.783V30.33z M161.482,26.813
+			c0,0.72,0.099,1.24,0.298,1.562c0.288,0.466,0.689,0.698,1.206,0.698c0.41,0,0.76-0.175,1.047-0.523
+			c0.288-0.35,0.432-0.871,0.432-1.565c0-0.773-0.139-1.331-0.418-1.672s-0.638-0.512-1.073-0.512c-0.423,0-0.777,0.169-1.063,0.505
+			C161.624,25.643,161.482,26.144,161.482,26.813z"/>
+		<path class="st1" d="M168.001,22.675v-1.65h1.783v1.65H168.001z M168.001,30.33v-6.741h1.783v6.741H168.001z"/>
+		<path class="st1" d="M177.743,30.33h-1.783v-3.44c0-0.728-0.038-1.198-0.114-1.412s-0.2-0.38-0.371-0.499
+			c-0.172-0.118-0.378-0.178-0.619-0.178c-0.309,0-0.586,0.085-0.831,0.254c-0.246,0.17-0.414,0.395-0.505,0.674
+			s-0.137,0.795-0.137,1.549v3.053h-1.784v-6.741h1.657v0.99c0.588-0.762,1.329-1.143,2.222-1.143c0.394,0,0.753,0.071,1.079,0.213
+			s0.572,0.322,0.739,0.542c0.167,0.221,0.284,0.471,0.35,0.75s0.098,0.679,0.098,1.199V30.33z"/>
+		<path class="st1" d="M179.388,30.774l2.038,0.247c0.034,0.237,0.112,0.4,0.235,0.489c0.169,0.127,0.436,0.19,0.799,0.19
+			c0.466,0,0.815-0.07,1.048-0.209c0.156-0.094,0.275-0.244,0.355-0.451c0.055-0.148,0.083-0.421,0.083-0.818v-0.984
+			c-0.533,0.728-1.207,1.092-2.02,1.092c-0.905,0-1.622-0.383-2.151-1.148c-0.415-0.605-0.622-1.359-0.622-2.26
+			c0-1.131,0.271-1.994,0.815-2.59c0.544-0.598,1.22-0.896,2.028-0.896c0.834,0,1.521,0.366,2.063,1.099v-0.946h1.67v6.05
+			c0,0.795-0.065,1.39-0.197,1.783c-0.131,0.394-0.314,0.702-0.552,0.927s-0.554,0.399-0.949,0.526s-0.896,0.191-1.501,0.191
+			c-1.143,0-1.953-0.196-2.432-0.588c-0.478-0.392-0.717-0.888-0.717-1.488C179.382,30.931,179.384,30.859,179.388,30.774z
+			 M180.982,26.82c0,0.715,0.139,1.238,0.416,1.57s0.619,0.498,1.025,0.498c0.436,0,0.804-0.17,1.104-0.511
+			c0.301-0.341,0.451-0.845,0.451-1.514c0-0.698-0.144-1.217-0.432-1.556c-0.288-0.338-0.651-0.508-1.092-0.508
+			c-0.428,0-0.779,0.167-1.057,0.499S180.982,26.139,180.982,26.82z"/>
+		<path class="st1" d="M194.064,33.066h-1.225c-0.647-0.979-1.141-1.994-1.479-3.047c-0.339-1.055-0.508-2.074-0.508-3.061
+			c0-1.223,0.209-2.38,0.628-3.472c0.364-0.948,0.825-1.821,1.384-2.622h1.219c-0.58,1.283-0.979,2.373-1.196,3.272
+			s-0.327,1.853-0.327,2.86c0,0.693,0.064,1.404,0.193,2.133c0.129,0.728,0.306,1.419,0.53,2.075
+			C193.432,31.638,193.692,32.258,194.064,33.066z"/>
+		<path class="st1" d="M196.768,25.645l-1.618-0.292c0.182-0.651,0.495-1.134,0.939-1.447s1.104-0.47,1.98-0.47
+			c0.796,0,1.388,0.094,1.777,0.282s0.663,0.428,0.822,0.718c0.158,0.29,0.237,0.821,0.237,1.597l-0.019,2.082
+			c0,0.592,0.028,1.029,0.086,1.311c0.057,0.281,0.164,0.583,0.32,0.904h-1.765c-0.047-0.118-0.104-0.294-0.172-0.527
+			c-0.029-0.105-0.051-0.175-0.063-0.209c-0.305,0.296-0.631,0.519-0.979,0.666c-0.347,0.148-0.717,0.223-1.11,0.223
+			c-0.694,0-1.241-0.188-1.641-0.564c-0.4-0.377-0.601-0.854-0.601-1.429c0-0.381,0.092-0.721,0.273-1.019
+			c0.182-0.299,0.437-0.527,0.765-0.686c0.328-0.159,0.801-0.298,1.419-0.416c0.834-0.156,1.411-0.303,1.732-0.438v-0.178
+			c0-0.344-0.084-0.588-0.254-0.733c-0.169-0.146-0.488-0.22-0.958-0.22c-0.317,0-0.565,0.063-0.743,0.188
+			S196.878,25.332,196.768,25.645z M199.155,27.093c-0.229,0.076-0.59,0.167-1.085,0.272c-0.495,0.106-0.819,0.21-0.972,0.312
+			c-0.232,0.165-0.349,0.374-0.349,0.628c0,0.25,0.093,0.466,0.279,0.648c0.187,0.182,0.423,0.272,0.711,0.272
+			c0.321,0,0.628-0.105,0.921-0.317c0.215-0.161,0.357-0.357,0.425-0.59c0.047-0.152,0.069-0.442,0.069-0.87V27.093z"/>
+		<path class="st1" d="M208.796,30.33h-1.783v-3.44c0-0.728-0.038-1.198-0.114-1.412s-0.2-0.38-0.371-0.499
+			c-0.172-0.118-0.378-0.178-0.619-0.178c-0.309,0-0.586,0.085-0.831,0.254c-0.246,0.17-0.414,0.395-0.505,0.674
+			s-0.137,0.795-0.137,1.549v3.053h-1.784v-6.741h1.657v0.99c0.588-0.762,1.329-1.143,2.222-1.143c0.394,0,0.753,0.071,1.079,0.213
+			s0.572,0.322,0.739,0.542c0.167,0.221,0.284,0.471,0.35,0.75s0.098,0.679,0.098,1.199V30.33z"/>
+		<path class="st1" d="M216.484,25.582l-1.758,0.317c-0.06-0.352-0.193-0.616-0.403-0.794c-0.209-0.178-0.481-0.266-0.815-0.266
+			c-0.444,0-0.799,0.153-1.063,0.46s-0.396,0.819-0.396,1.539c0,0.8,0.135,1.364,0.403,1.694s0.629,0.496,1.082,0.496
+			c0.339,0,0.615-0.097,0.832-0.289c0.215-0.192,0.367-0.523,0.457-0.994l1.752,0.299c-0.183,0.804-0.531,1.411-1.048,1.822
+			c-0.517,0.41-1.208,0.615-2.075,0.615c-0.986,0-1.772-0.311-2.358-0.934c-0.586-0.621-0.88-1.482-0.88-2.583
+			c0-1.113,0.295-1.979,0.883-2.6s1.384-0.93,2.387-0.93c0.821,0,1.474,0.177,1.958,0.53S216.273,24.858,216.484,25.582z"/>
+		<path class="st1" d="M217.837,30.33v-9.306h1.783v9.306H217.837z"/>
+		<path class="st1" d="M222.781,25.645l-1.618-0.292c0.182-0.651,0.495-1.134,0.939-1.447s1.104-0.47,1.98-0.47
+			c0.796,0,1.388,0.094,1.777,0.282s0.663,0.428,0.822,0.718c0.158,0.29,0.237,0.821,0.237,1.597l-0.019,2.082
+			c0,0.592,0.028,1.029,0.086,1.311c0.057,0.281,0.164,0.583,0.32,0.904h-1.765c-0.047-0.118-0.104-0.294-0.172-0.527
+			c-0.029-0.105-0.051-0.175-0.063-0.209c-0.305,0.296-0.631,0.519-0.979,0.666c-0.347,0.148-0.717,0.223-1.11,0.223
+			c-0.694,0-1.241-0.188-1.641-0.564c-0.4-0.377-0.601-0.854-0.601-1.429c0-0.381,0.092-0.721,0.273-1.019
+			c0.182-0.299,0.437-0.527,0.765-0.686c0.328-0.159,0.801-0.298,1.419-0.416c0.834-0.156,1.411-0.303,1.732-0.438v-0.178
+			c0-0.344-0.084-0.588-0.254-0.733c-0.169-0.146-0.488-0.22-0.958-0.22c-0.317,0-0.565,0.063-0.743,0.188
+			S222.891,25.332,222.781,25.645z M225.167,27.093c-0.229,0.076-0.59,0.167-1.085,0.272c-0.495,0.106-0.819,0.21-0.972,0.312
+			c-0.232,0.165-0.349,0.374-0.349,0.628c0,0.25,0.093,0.466,0.279,0.648c0.187,0.182,0.423,0.272,0.711,0.272
+			c0.321,0,0.628-0.105,0.921-0.317c0.215-0.161,0.357-0.357,0.425-0.59c0.047-0.152,0.069-0.442,0.069-0.87V27.093z"/>
+		<path class="st1" d="M230.424,23.589v6.532c0,0.858-0.056,1.465-0.168,1.818c-0.112,0.354-0.328,0.629-0.647,0.828
+			s-0.727,0.299-1.223,0.299c-0.178,0-0.369-0.017-0.574-0.048c-0.205-0.032-0.426-0.079-0.663-0.144l0.312-1.523
+			c0.084,0.018,0.163,0.031,0.237,0.042s0.144,0.016,0.206,0.016c0.183,0,0.332-0.039,0.448-0.117s0.193-0.173,0.231-0.282
+			c0.038-0.11,0.057-0.44,0.057-0.99v-6.431H230.424z M228.64,22.675v-1.65h1.784v1.65H228.64z"/>
+		<path class="st1" d="M236.194,28.184l1.777,0.298c-0.229,0.652-0.589,1.148-1.082,1.489s-1.11,0.511-1.851,0.511
+			c-1.172,0-2.04-0.383-2.603-1.148c-0.444-0.614-0.667-1.389-0.667-2.324c0-1.117,0.293-1.991,0.877-2.624s1.322-0.949,2.215-0.949
+			c1.003,0,1.794,0.331,2.374,0.993s0.856,1.677,0.831,3.044h-4.469c0.014,0.529,0.157,0.94,0.432,1.234
+			c0.275,0.294,0.618,0.441,1.029,0.441c0.279,0,0.514-0.076,0.704-0.229S236.096,28.523,236.194,28.184z M236.295,26.382
+			c-0.013-0.517-0.146-0.909-0.399-1.178s-0.563-0.403-0.928-0.403c-0.389,0-0.711,0.143-0.965,0.426s-0.378,0.669-0.374,1.155
+			H236.295z"/>
+		<path class="st1" d="M249.314,30.33h-1.656v-0.99c-0.275,0.385-0.6,0.672-0.975,0.86c-0.374,0.188-0.752,0.282-1.133,0.282
+			c-0.774,0-1.438-0.313-1.99-0.937c-0.552-0.624-0.828-1.495-0.828-2.612c0-1.143,0.269-2.011,0.807-2.605
+			c0.537-0.595,1.216-0.892,2.037-0.892c0.753,0,1.405,0.313,1.955,0.939v-3.352h1.783V30.33z M244.554,26.813
+			c0,0.72,0.099,1.24,0.298,1.562c0.288,0.466,0.689,0.698,1.206,0.698c0.41,0,0.76-0.175,1.047-0.523
+			c0.288-0.35,0.432-0.871,0.432-1.565c0-0.773-0.139-1.331-0.418-1.672s-0.638-0.512-1.073-0.512c-0.423,0-0.777,0.169-1.063,0.505
+			C244.697,25.643,244.554,26.144,244.554,26.813z"/>
+		<path class="st1" d="M254.977,28.184l1.777,0.298c-0.229,0.652-0.589,1.148-1.082,1.489c-0.493,0.341-1.11,0.511-1.851,0.511
+			c-1.172,0-2.04-0.383-2.603-1.148c-0.444-0.614-0.667-1.389-0.667-2.324c0-1.117,0.293-1.991,0.877-2.624s1.322-0.949,2.215-0.949
+			c1.003,0,1.794,0.331,2.374,0.993c0.58,0.662,0.856,1.677,0.831,3.044h-4.469c0.014,0.529,0.157,0.94,0.432,1.234
+			c0.275,0.294,0.618,0.441,1.029,0.441c0.279,0,0.514-0.076,0.704-0.229S254.879,28.523,254.977,28.184z M255.078,26.382
+			c-0.013-0.517-0.146-0.909-0.399-1.178s-0.563-0.403-0.928-0.403c-0.389,0-0.711,0.143-0.965,0.426s-0.378,0.669-0.374,1.155
+			H255.078z"/>
+		<path class="st1" d="M268.097,30.33h-1.656v-0.99c-0.275,0.385-0.6,0.672-0.975,0.86c-0.374,0.188-0.752,0.282-1.133,0.282
+			c-0.774,0-1.438-0.313-1.99-0.937c-0.552-0.624-0.828-1.495-0.828-2.612c0-1.143,0.269-2.011,0.807-2.605
+			c0.537-0.595,1.216-0.892,2.037-0.892c0.753,0,1.405,0.313,1.955,0.939v-3.352h1.783V30.33z M263.337,26.813
+			c0,0.72,0.099,1.24,0.298,1.562c0.288,0.466,0.689,0.698,1.206,0.698c0.41,0,0.76-0.175,1.047-0.523
+			c0.288-0.35,0.432-0.871,0.432-1.565c0-0.773-0.139-1.331-0.418-1.672s-0.638-0.512-1.073-0.512c-0.423,0-0.777,0.169-1.063,0.505
+			C263.48,25.643,263.337,26.144,263.337,26.813z"/>
+		<path class="st1" d="M271.188,25.645l-1.618-0.292c0.182-0.651,0.495-1.134,0.939-1.447s1.104-0.47,1.98-0.47
+			c0.796,0,1.388,0.094,1.777,0.282s0.663,0.428,0.822,0.718c0.158,0.29,0.237,0.821,0.237,1.597l-0.019,2.082
+			c0,0.592,0.028,1.029,0.086,1.311c0.057,0.281,0.164,0.583,0.32,0.904h-1.765c-0.047-0.118-0.104-0.294-0.172-0.527
+			c-0.029-0.105-0.051-0.175-0.063-0.209c-0.305,0.296-0.631,0.519-0.979,0.666c-0.347,0.148-0.717,0.223-1.11,0.223
+			c-0.694,0-1.241-0.188-1.641-0.564c-0.4-0.377-0.601-0.854-0.601-1.429c0-0.381,0.092-0.721,0.273-1.019
+			c0.182-0.299,0.437-0.527,0.765-0.686c0.328-0.159,0.801-0.298,1.419-0.416c0.834-0.156,1.411-0.303,1.732-0.438v-0.178
+			c0-0.344-0.084-0.588-0.254-0.733c-0.169-0.146-0.488-0.22-0.958-0.22c-0.317,0-0.565,0.063-0.743,0.188
+			S271.298,25.332,271.188,25.645z M273.574,27.093c-0.229,0.076-0.59,0.167-1.085,0.272c-0.495,0.106-0.819,0.21-0.972,0.312
+			c-0.232,0.165-0.349,0.374-0.349,0.628c0,0.25,0.093,0.466,0.279,0.648c0.187,0.182,0.423,0.272,0.711,0.272
+			c0.321,0,0.628-0.105,0.921-0.317c0.215-0.161,0.357-0.357,0.425-0.59c0.047-0.152,0.069-0.442,0.069-0.87V27.093z"/>
+		<path class="st1" d="M280.176,23.589v1.422h-1.219v2.717c0,0.55,0.012,0.871,0.035,0.962s0.076,0.166,0.158,0.225
+			c0.083,0.06,0.184,0.09,0.302,0.09c0.165,0,0.404-0.058,0.717-0.172l0.152,1.384c-0.414,0.178-0.884,0.267-1.408,0.267
+			c-0.322,0-0.612-0.054-0.87-0.162c-0.258-0.107-0.447-0.247-0.568-0.419c-0.12-0.171-0.204-0.403-0.251-0.694
+			c-0.037-0.208-0.057-0.627-0.057-1.258v-2.938h-0.818v-1.422h0.818V22.25l1.79-1.041v2.38H280.176z"/>
+		<path class="st1" d="M281.002,26.864c0-0.593,0.146-1.166,0.438-1.72c0.291-0.555,0.705-0.979,1.24-1.27
+			c0.535-0.293,1.133-0.438,1.793-0.438c1.021,0,1.856,0.331,2.508,0.993s0.978,1.499,0.978,2.511c0,1.02-0.329,1.865-0.987,2.536
+			s-1.486,1.006-2.484,1.006c-0.618,0-1.208-0.14-1.769-0.419s-0.987-0.688-1.278-1.229
+			C281.148,28.296,281.002,27.639,281.002,26.864z M282.83,26.959c0,0.669,0.159,1.182,0.476,1.537
+			c0.318,0.355,0.709,0.533,1.175,0.533s0.855-0.178,1.171-0.533s0.473-0.872,0.473-1.549c0-0.66-0.157-1.168-0.473-1.523
+			s-0.705-0.533-1.171-0.533s-0.856,0.178-1.175,0.533C282.99,25.779,282.83,26.291,282.83,26.959z"/>
+		<path class="st1" d="M288.727,28.406l1.79-0.272c0.076,0.347,0.23,0.61,0.464,0.79c0.232,0.18,0.559,0.27,0.977,0.27
+			c0.462,0,0.809-0.084,1.041-0.254c0.157-0.118,0.235-0.276,0.235-0.476c0-0.136-0.042-0.247-0.127-0.337
+			c-0.089-0.084-0.288-0.162-0.597-0.234c-1.438-0.317-2.351-0.607-2.736-0.869c-0.533-0.364-0.799-0.87-0.799-1.518
+			c0-0.584,0.23-1.075,0.691-1.473s1.177-0.597,2.146-0.597c0.923,0,1.608,0.15,2.057,0.45c0.448,0.301,0.758,0.745,0.927,1.334
+			l-1.682,0.311c-0.072-0.263-0.209-0.463-0.41-0.604c-0.201-0.139-0.487-0.209-0.859-0.209c-0.471,0-0.807,0.065-1.01,0.197
+			c-0.136,0.093-0.203,0.213-0.203,0.361c0,0.127,0.06,0.234,0.178,0.324c0.161,0.118,0.716,0.285,1.666,0.501
+			s1.613,0.48,1.99,0.794c0.372,0.316,0.559,0.759,0.559,1.326c0,0.618-0.258,1.148-0.774,1.594
+			c-0.517,0.443-1.28,0.666-2.292,0.666c-0.918,0-1.645-0.187-2.18-0.559S288.892,29.046,288.727,28.406z"/>
+		<path class="st1" d="M296.089,33.066c0.352-0.754,0.6-1.331,0.743-1.733s0.277-0.865,0.399-1.39
+			c0.123-0.525,0.214-1.023,0.273-1.495s0.089-0.956,0.089-1.45c0-1.008-0.108-1.961-0.323-2.86
+			c-0.217-0.899-0.614-1.989-1.193-3.272h1.212c0.639,0.91,1.135,1.875,1.488,2.895c0.354,1.021,0.53,2.055,0.53,3.104
+			c0,0.885-0.14,1.832-0.419,2.844c-0.317,1.134-0.84,2.253-1.567,3.358H296.089z"/>
+	</g>
+	<g>
+		<polygon id="XMLID_3198_" class="st4" points="47.317,113.208 1.5,86.754 1.5,33.848 47.317,7.393 93.135,33.848 93.135,86.754 		
+			"/>
+		<g>
+			<g>
+				<path class="st3" d="M39.09,80.923h1.776c0.4,0,0.706,0.031,0.916,0.093c0.282,0.083,0.524,0.23,0.726,0.442
+					c0.201,0.213,0.354,0.473,0.46,0.78c0.104,0.308,0.157,0.687,0.157,1.138c0,0.396-0.049,0.737-0.147,1.024
+					c-0.12,0.35-0.292,0.634-0.516,0.85c-0.169,0.165-0.396,0.293-0.683,0.385c-0.215,0.067-0.502,0.102-0.86,0.102H39.09V80.923z
+					 M40.062,81.737v3.188h0.726c0.271,0,0.468-0.016,0.588-0.046c0.158-0.04,0.289-0.106,0.393-0.201
+					c0.104-0.094,0.188-0.248,0.255-0.464c0.065-0.216,0.098-0.51,0.098-0.882s-0.032-0.657-0.098-0.856
+					c-0.066-0.199-0.158-0.355-0.276-0.467s-0.268-0.187-0.449-0.227c-0.136-0.03-0.402-0.046-0.798-0.046H40.062z"/>
+				<path class="st3" d="M48.29,85.736h-1.058l-0.42-1.094h-1.924l-0.397,1.094H43.46l1.875-4.813h1.027L48.29,85.736z M46.5,83.832
+					l-0.663-1.786l-0.649,1.786H46.5z"/>
+				<path class="st3" d="M49.39,85.736v-3.999h-1.429v-0.814h3.825v0.814h-1.425v3.999H49.39z"/>
+				<path class="st3" d="M56.255,85.736h-1.058l-0.42-1.094h-1.924l-0.397,1.094h-1.031l1.875-4.813h1.027L56.255,85.736z
+					 M54.465,83.832l-0.663-1.786l-0.649,1.786H54.465z"/>
+				<path class="st3" d="M33.615,88.991h1.924c0.381,0,0.665,0.017,0.853,0.048c0.187,0.032,0.354,0.098,0.502,0.199
+					c0.147,0.101,0.271,0.234,0.369,0.401c0.099,0.168,0.147,0.355,0.147,0.563c0,0.226-0.061,0.433-0.182,0.62
+					c-0.122,0.188-0.286,0.33-0.494,0.424c0.293,0.085,0.519,0.231,0.676,0.437c0.158,0.206,0.237,0.448,0.237,0.726
+					c0,0.219-0.052,0.432-0.153,0.639s-0.24,0.372-0.417,0.496c-0.176,0.123-0.394,0.199-0.651,0.228
+					c-0.162,0.018-0.553,0.029-1.172,0.033h-1.639V88.991z M34.587,89.793v1.112h0.637c0.379,0,0.614-0.005,0.706-0.016
+					c0.167-0.021,0.297-0.077,0.393-0.173c0.095-0.095,0.143-0.221,0.143-0.376c0-0.148-0.041-0.27-0.123-0.362
+					c-0.082-0.094-0.204-0.149-0.366-0.169c-0.096-0.012-0.373-0.017-0.83-0.017H34.587z M34.587,91.707v1.287h0.899
+					c0.351,0,0.572-0.01,0.667-0.03c0.145-0.026,0.262-0.09,0.353-0.191c0.091-0.103,0.137-0.238,0.137-0.409
+					c0-0.145-0.035-0.267-0.105-0.367s-0.171-0.175-0.304-0.221c-0.132-0.046-0.42-0.068-0.861-0.068H34.587z"/>
+				<path class="st3" d="M38.439,93.805v-4.813h0.972v4.813H38.439z"/>
+				<path class="st3" d="M40.346,93.805v-4.813h0.946l1.97,3.215v-3.215h0.902v4.813H43.19l-1.94-3.139v3.139H40.346z"/>
+				<path class="st3" d="M45.189,88.991h1.776c0.4,0,0.705,0.031,0.916,0.093c0.282,0.083,0.523,0.23,0.726,0.442
+					c0.201,0.213,0.354,0.473,0.459,0.78c0.105,0.308,0.158,0.687,0.158,1.138c0,0.396-0.05,0.737-0.148,1.024
+					c-0.12,0.35-0.292,0.634-0.515,0.85c-0.169,0.165-0.396,0.293-0.684,0.385c-0.214,0.067-0.501,0.102-0.86,0.102h-1.828V88.991z
+					 M46.16,89.806v3.188h0.726c0.271,0,0.467-0.016,0.588-0.046c0.157-0.04,0.288-0.106,0.392-0.201
+					c0.104-0.094,0.189-0.248,0.255-0.464s0.099-0.51,0.099-0.882s-0.033-0.657-0.099-0.856s-0.157-0.355-0.275-0.467
+					s-0.269-0.187-0.45-0.227c-0.136-0.03-0.401-0.046-0.798-0.046H46.16z"/>
+				<path class="st3" d="M50.018,93.805v-4.813h0.973v4.813H50.018z"/>
+				<path class="st3" d="M51.926,93.805v-4.813h0.945l1.97,3.215v-3.215h0.903v4.813h-0.976l-1.94-3.139v3.139H51.926z"/>
+				<path class="st3" d="M59.011,92.035v-0.811h2.094v1.917c-0.203,0.197-0.498,0.37-0.885,0.521
+					c-0.386,0.149-0.777,0.225-1.173,0.225c-0.504,0-0.942-0.105-1.317-0.316c-0.374-0.212-0.655-0.514-0.844-0.906
+					c-0.188-0.394-0.282-0.82-0.282-1.282c0-0.501,0.105-0.946,0.315-1.336s0.518-0.688,0.923-0.896
+					c0.309-0.16,0.692-0.24,1.152-0.24c0.598,0,1.064,0.126,1.4,0.376c0.336,0.251,0.552,0.598,0.648,1.039l-0.966,0.181
+					c-0.067-0.236-0.195-0.423-0.383-0.56c-0.187-0.137-0.42-0.205-0.7-0.205c-0.425,0-0.763,0.135-1.013,0.403
+					c-0.251,0.27-0.376,0.669-0.376,1.199c0,0.571,0.127,0.999,0.381,1.285c0.254,0.285,0.586,0.428,0.998,0.428
+					c0.203,0,0.407-0.039,0.612-0.119c0.204-0.08,0.38-0.177,0.526-0.291v-0.61H59.011z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					
+						<rect x="38.857" y="53.564" transform="matrix(0.7074 0.7068 -0.7068 0.7074 52.171 -11.2184)" class="st3" width="1.559" height="7.687"/>
+					
+						<rect x="51.981" y="53.561" transform="matrix(-0.7069 -0.7073 0.7073 -0.7069 49.459 135.3035)" class="st3" width="1.559" height="7.688"/>
+					<path class="st3" d="M62.338,27.734c-0.117-0.056-0.235-0.11-0.354-0.161c-0.239-0.101-0.484-0.19-0.735-0.268
+						c-0.751-0.233-1.55-0.36-2.377-0.36c-0.111,0-0.221,0.003-0.331,0.007c-0.025,0.002-0.051,0.003-0.076,0.005
+						c-0.092,0.004-0.184,0.01-0.276,0.019c-0.018,0.001-0.035,0.002-0.053,0.004c-0.496,0.045-0.985,0.136-1.462,0.271
+						c-0.001-0.008-0.003-0.017-0.005-0.024c-0.016-0.084-0.034-0.167-0.053-0.25c-0.007-0.032-0.014-0.065-0.022-0.098
+						c-0.02-0.083-0.042-0.166-0.064-0.248c-0.008-0.029-0.017-0.061-0.025-0.092c-0.024-0.084-0.049-0.167-0.077-0.251
+						c-0.008-0.025-0.017-0.052-0.025-0.077c-0.029-0.086-0.059-0.173-0.091-0.258c-0.008-0.019-0.016-0.038-0.023-0.058
+						c-0.034-0.091-0.07-0.182-0.108-0.271c-0.004-0.009-0.008-0.019-0.013-0.027c-0.4-0.925-0.973-1.754-1.677-2.45l0,0
+						c-0.079-0.078-0.159-0.154-0.24-0.229c0-0.001-0.001-0.001-0.001-0.001c-0.645-0.587-1.387-1.066-2.199-1.412
+						c-0.019-0.007-0.037-0.015-0.055-0.024c-0.078-0.031-0.156-0.063-0.235-0.092c-0.032-0.012-0.064-0.024-0.097-0.037
+						c-0.071-0.025-0.144-0.052-0.216-0.074c-0.041-0.014-0.082-0.027-0.124-0.041c-0.068-0.021-0.136-0.041-0.204-0.061
+						c-0.048-0.013-0.096-0.026-0.144-0.039c-0.064-0.017-0.128-0.033-0.194-0.049c-0.054-0.013-0.108-0.024-0.162-0.035
+						c-0.061-0.014-0.122-0.025-0.184-0.038c-0.06-0.01-0.12-0.021-0.18-0.03c-0.058-0.01-0.116-0.02-0.174-0.027
+						c-0.066-0.01-0.134-0.017-0.201-0.024c-0.053-0.007-0.105-0.014-0.159-0.019c-0.078-0.007-0.157-0.012-0.235-0.017
+						c-0.044-0.004-0.087-0.007-0.131-0.009c-0.124-0.006-0.248-0.01-0.372-0.01c-0.126,0-0.251,0.004-0.376,0.01
+						c-0.05,0.003-0.1,0.007-0.15,0.01c-0.072,0.005-0.144,0.01-0.217,0.016c-0.063,0.007-0.126,0.016-0.189,0.022
+						c-0.057,0.007-0.114,0.013-0.17,0.021c-0.07,0.011-0.141,0.021-0.21,0.032c-0.048,0.01-0.096,0.018-0.144,0.026
+						c-0.074,0.015-0.148,0.029-0.222,0.046c-0.042,0.009-0.084,0.02-0.126,0.029c-0.077,0.017-0.153,0.036-0.228,0.056
+						c-0.039,0.011-0.077,0.023-0.116,0.034c-0.077,0.021-0.153,0.044-0.229,0.067c-0.041,0.013-0.08,0.028-0.121,0.041
+						c-0.072,0.024-0.145,0.049-0.216,0.074c-0.11,0.041-0.219,0.085-0.328,0.13c-0.01,0.005-0.02,0.009-0.03,0.013
+						c-0.106,0.046-0.211,0.093-0.314,0.144c-0.01,0.004-0.019,0.01-0.028,0.014c-0.105,0.051-0.209,0.103-0.312,0.16
+						c-0.003,0.002-0.007,0.003-0.009,0.004c-0.484,0.264-0.942,0.576-1.365,0.94c-0.629,0.541-1.163,1.175-1.588,1.874
+						c-0.003,0.006-0.008,0.012-0.011,0.02c-0.061,0.102-0.121,0.204-0.178,0.308c-0.002,0.005-0.004,0.009-0.007,0.013
+						c-0.058,0.107-0.113,0.215-0.166,0.324c-0.008,0.018-0.016,0.033-0.024,0.052c-0.04,0.084-0.079,0.169-0.116,0.256
+						c-0.016,0.037-0.031,0.073-0.047,0.111c-0.029,0.07-0.057,0.14-0.083,0.211c-0.015,0.04-0.03,0.079-0.045,0.118
+						c-0.036,0.101-0.07,0.2-0.103,0.303c-0.014,0.043-0.026,0.088-0.039,0.132c-0.014,0.048-0.029,0.095-0.042,0.143
+						c-0.335-0.058-0.676-0.086-1.018-0.086c-2.634,0-4.896,1.672-5.702,4.093c-0.359-0.127-0.729-0.219-1.104-0.28
+						c-0.021-0.003-0.043-0.006-0.066-0.009c-0.077-0.012-0.155-0.022-0.233-0.031c-0.03-0.003-0.061-0.006-0.092-0.01
+						c-0.073-0.006-0.146-0.013-0.22-0.017c-0.03-0.003-0.06-0.004-0.089-0.006c-0.102-0.005-0.203-0.009-0.305-0.009
+						c-2.511,0-4.685,1.469-5.71,3.592c-0.401,0.83-0.626,1.762-0.626,2.744c0,0.982,0.225,1.914,0.626,2.743
+						c1.024,2.124,3.199,3.591,5.71,3.591h13.189v6.605H32.038v15.138v5.167H43v2.584h-5.339v1.559H43h7.139h5.338v-1.559H50.14
+						v-2.584h10.962v-5.167V49.554H47.35v-6.605h11.522c0.176,0,0.35-0.007,0.523-0.018v0.002c0.057-0.004,0.114-0.01,0.17-0.016
+						c0.055-0.005,0.11-0.01,0.165-0.015c0.083-0.009,0.164-0.02,0.245-0.031c0.048-0.007,0.097-0.012,0.146-0.02
+						c0.088-0.015,0.176-0.031,0.264-0.048c0.041-0.008,0.08-0.015,0.12-0.022c0.098-0.02,0.195-0.043,0.291-0.066
+						c0.029-0.008,0.058-0.015,0.087-0.022c0.111-0.028,0.22-0.06,0.33-0.094c0.014-0.004,0.028-0.008,0.042-0.013
+						c0.499-0.155,0.977-0.359,1.428-0.604c0.006-0.004,0.012-0.007,0.019-0.011c0.104-0.058,0.206-0.115,0.307-0.177
+						c0.033-0.021,0.066-0.042,0.1-0.063c0.072-0.046,0.145-0.091,0.216-0.139c0.047-0.031,0.093-0.065,0.14-0.099
+						c0.055-0.038,0.11-0.076,0.164-0.116c0.056-0.042,0.11-0.084,0.164-0.126c0.042-0.035,0.086-0.067,0.128-0.101
+						c0.061-0.051,0.12-0.102,0.179-0.152c0.034-0.029,0.068-0.059,0.102-0.088c0.064-0.059,0.127-0.116,0.188-0.176
+						c0.027-0.025,0.054-0.051,0.081-0.076c0.065-0.064,0.129-0.131,0.192-0.197c0.022-0.022,0.044-0.044,0.064-0.067
+						c0.066-0.071,0.13-0.144,0.194-0.216c0.017-0.02,0.034-0.039,0.05-0.058c0.065-0.078,0.129-0.156,0.191-0.235
+						c0.013-0.018,0.027-0.035,0.041-0.051c0.064-0.082,0.125-0.167,0.186-0.252c0.011-0.015,0.022-0.029,0.033-0.045
+						c0.061-0.088,0.121-0.175,0.178-0.264c0.009-0.016,0.019-0.03,0.028-0.044c0.058-0.091,0.114-0.183,0.167-0.276
+						c0.008-0.014,0.016-0.027,0.024-0.042c0.054-0.094,0.105-0.189,0.156-0.284c0.007-0.016,0.015-0.029,0.022-0.044
+						c0.05-0.097,0.097-0.193,0.143-0.292c0.007-0.016,0.014-0.031,0.021-0.048c0.044-0.097,0.087-0.194,0.127-0.294
+						c0.007-0.019,0.015-0.037,0.022-0.056c0.039-0.099,0.076-0.196,0.111-0.294c0.008-0.024,0.015-0.045,0.022-0.068
+						c0.033-0.096,0.065-0.192,0.094-0.29c0.008-0.026,0.016-0.055,0.024-0.083c0.026-0.092,0.053-0.186,0.076-0.28
+						c0.009-0.035,0.016-0.069,0.024-0.104c0.021-0.088,0.041-0.178,0.059-0.268c0.008-0.043,0.015-0.088,0.023-0.131
+						c0.016-0.083,0.031-0.165,0.043-0.248c0.008-0.055,0.014-0.111,0.022-0.168c0.009-0.072,0.019-0.145,0.026-0.219
+						s0.012-0.149,0.017-0.225c0.004-0.057,0.01-0.113,0.013-0.17c0.006-0.132,0.01-0.266,0.01-0.4l0,0
+						C66.875,31.775,65.02,29.028,62.338,27.734z M46.57,54.097c0.61,0,1.105,0.496,1.105,1.104c0,0.609-0.496,1.104-1.105,1.104
+						c-0.609,0-1.104-0.495-1.104-1.104C45.465,54.593,45.961,54.097,46.57,54.097z M45.465,36.823c0-0.609,0.496-1.105,1.104-1.105
+						c0.61,0,1.105,0.496,1.105,1.105c0,0.609-0.496,1.104-1.105,1.104C45.961,37.928,45.465,37.433,45.465,36.823z M48.581,72.443
+						h-4.022v-2.585h4.022V72.443z M59.544,68.301H50.14H43h-9.404v-2.05h25.947V68.301z M59.544,51.113v13.578H33.597V51.113
+						h12.194v1.542c-1.089,0.334-1.883,1.35-1.883,2.546c0,1.47,1.194,2.665,2.663,2.665c1.469,0,2.663-1.195,2.663-2.665
+						c0-1.196-0.794-2.212-1.883-2.546v-1.542H59.544z M65.308,35.27c-0.002,0.044-0.007,0.089-0.01,0.133
+						c-0.004,0.062-0.008,0.123-0.014,0.184c-0.006,0.059-0.014,0.115-0.021,0.173c-0.005,0.046-0.011,0.093-0.017,0.138
+						c-0.01,0.067-0.022,0.131-0.034,0.195c-0.006,0.038-0.012,0.074-0.02,0.11c-0.014,0.071-0.03,0.141-0.046,0.21
+						c-0.008,0.03-0.014,0.06-0.021,0.091c-0.019,0.073-0.039,0.146-0.06,0.219c-0.007,0.025-0.014,0.05-0.021,0.075
+						c-0.022,0.075-0.047,0.15-0.073,0.225c-0.007,0.021-0.014,0.043-0.021,0.064c-0.028,0.075-0.056,0.151-0.086,0.227
+						c-0.007,0.018-0.014,0.037-0.022,0.056c-0.031,0.076-0.064,0.15-0.098,0.227c-0.008,0.017-0.015,0.032-0.022,0.049
+						c-0.035,0.075-0.071,0.149-0.108,0.224c-0.008,0.016-0.017,0.031-0.025,0.047c-0.038,0.073-0.078,0.146-0.119,0.217
+						c-0.009,0.016-0.019,0.032-0.028,0.049c-0.04,0.07-0.083,0.139-0.126,0.207c-0.011,0.018-0.022,0.034-0.033,0.051
+						c-0.043,0.067-0.087,0.132-0.133,0.197c-0.013,0.019-0.025,0.037-0.039,0.055c-0.044,0.063-0.09,0.123-0.137,0.184
+						c-0.016,0.021-0.032,0.041-0.048,0.062c-0.045,0.058-0.091,0.114-0.138,0.169c-0.02,0.023-0.04,0.047-0.06,0.068
+						c-0.045,0.052-0.09,0.104-0.137,0.153c-0.024,0.026-0.049,0.052-0.074,0.078c-0.044,0.045-0.087,0.091-0.133,0.135
+						c-0.03,0.029-0.061,0.06-0.092,0.089c-0.041,0.038-0.082,0.077-0.124,0.115c-0.038,0.034-0.077,0.067-0.116,0.1
+						c-0.037,0.031-0.072,0.063-0.109,0.094c-0.048,0.039-0.097,0.077-0.146,0.115c-0.03,0.022-0.059,0.046-0.089,0.068
+						c-0.061,0.045-0.125,0.09-0.188,0.134c-0.019,0.013-0.038,0.027-0.057,0.039c-0.083,0.056-0.167,0.109-0.252,0.162
+						c0,0.001-0.001,0.001-0.002,0.002c-0.53,0.321-1.11,0.569-1.726,0.729c-0.01,0.002-0.021,0.005-0.031,0.008
+						c-0.09,0.022-0.182,0.043-0.273,0.063c-0.022,0.004-0.045,0.008-0.068,0.013c-0.08,0.016-0.159,0.031-0.24,0.043
+						c-0.033,0.005-0.065,0.009-0.098,0.014c-0.071,0.01-0.143,0.021-0.215,0.027c-0.04,0.005-0.081,0.008-0.121,0.011
+						c-0.187,0.017-0.376,0.026-0.567,0.026H47.35v-2.02c1.089-0.334,1.883-1.35,1.883-2.547c0-1.469-1.194-2.663-2.663-2.663
+						c-1.468,0-2.663,1.194-2.663,2.663c0,1.197,0.794,2.213,1.883,2.547v2.02h-9.028c0.274-0.239,0.53-0.503,0.763-0.791
+						l-1.211-0.982c-0.913,1.127-2.266,1.772-3.713,1.772c-1.728,0-3.246-0.923-4.084-2.302c-0.039-0.066-0.079-0.133-0.115-0.2
+						c-0.073-0.134-0.141-0.274-0.202-0.417c-0.242-0.572-0.376-1.199-0.376-1.857s0.134-1.286,0.376-1.857
+						c0.061-0.143,0.128-0.282,0.202-0.418c0.037-0.067,0.076-0.134,0.115-0.199c0.838-1.379,2.356-2.302,4.084-2.302h0.001
+						c0.091,0,0.183,0.004,0.273,0.008c0.033,0.003,0.065,0.006,0.098,0.009c0.058,0.004,0.115,0.009,0.172,0.016
+						c0.042,0.004,0.083,0.01,0.124,0.016c0.046,0.007,0.092,0.014,0.138,0.021c0.048,0.008,0.096,0.018,0.143,0.027
+						c0.034,0.006,0.067,0.014,0.102,0.021c0.057,0.014,0.115,0.027,0.172,0.041c0.001,0,0.003,0.002,0.004,0.002
+						c0.316,0.083,0.621,0.199,0.913,0.345v0.002c0.512,0.256,0.98,0.604,1.374,1.032l1.146-1.057
+						c-0.341-0.369-0.725-0.693-1.137-0.969c0.531-1.908,2.26-3.247,4.29-3.247c0.255,0,0.508,0.022,0.758,0.065
+						c-0.012,0.178-0.021,0.357-0.021,0.539c0,1.053,0.206,2.074,0.611,3.035l1.437-0.604c-0.324-0.769-0.488-1.588-0.488-2.432
+						c0-0.317,0.024-0.631,0.07-0.935l0.008-0.052c0.004-0.028,0.01-0.058,0.015-0.086c0.012-0.07,0.025-0.141,0.039-0.21
+						c0.529-2.535,2.594-4.513,5.173-4.913c0.007-0.002,0.014-0.003,0.021-0.004c0.088-0.013,0.176-0.023,0.266-0.033
+						c0.019-0.002,0.037-0.005,0.056-0.007c0.081-0.008,0.162-0.014,0.244-0.018c0.023-0.002,0.047-0.004,0.07-0.006
+						c0.102-0.004,0.206-0.008,0.31-0.008c0.103,0,0.207,0.003,0.31,0.008c3.014,0.147,5.49,2.43,5.899,5.397
+						c-0.544,0.281-1.057,0.625-1.527,1.028c-1.433,1.23-2.387,2.927-2.689,4.782l1.538,0.25c0.349-2.144,1.712-3.882,3.556-4.767
+						l0.259-0.112c0.4-0.171,0.812-0.301,1.234-0.388c0.007-0.002,0.014-0.004,0.021-0.006c0.09-0.018,0.18-0.034,0.27-0.047
+						c0.023-0.004,0.044-0.008,0.067-0.011c0.077-0.012,0.155-0.021,0.232-0.029c0.03-0.004,0.06-0.008,0.089-0.011
+						c0.076-0.007,0.151-0.013,0.227-0.017c0.03-0.003,0.06-0.005,0.089-0.007c0.105-0.005,0.21-0.008,0.315-0.008
+						c0.222,0,0.441,0.012,0.657,0.033c3.246,0.331,5.786,3.08,5.786,6.41C65.315,35.056,65.313,35.163,65.308,35.27z"/>
+					<path class="st3" d="M36.997,38.484l1.434,0.612c0.184-0.431,0.318-0.883,0.402-1.344L37.3,37.476
+						C37.237,37.821,37.135,38.161,36.997,38.484z"/>
+					<path class="st3" d="M50.882,35.405c0.04,0.699,0.171,1.391,0.39,2.053l1.48-0.488c-0.176-0.533-0.282-1.088-0.314-1.652
+						L50.882,35.405z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

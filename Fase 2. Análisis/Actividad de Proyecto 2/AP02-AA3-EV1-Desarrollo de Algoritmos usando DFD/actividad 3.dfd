@@ -1,0 +1,115 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+118
+Desarrollar un algoritmo que permita a la frutería y al cliente conocer cuanto pagará un cliente que compre manzanas. 
+4
+1
+28
+"Ingrese el numero de kilos"
+5
+1
+6
+numero
+6
+1
+8
+manzanas
+4
+4200
+7
+0
+1
+10
+numero<=2 
+7
+0
+1
+24
+numero >2 or  numero <=5
+7
+0
+1
+24
+numero >5 or numero <=10
+7
+0
+1
+11
+numero >10 
+13
+6
+3
+7
+precio4
+15
+numero*manzanas
+10
+descuento3
+13
+precioiv*0.20
+3
+vt2
+18
+precio4-descuento3
+4
+1
+151
+"La compra de" ,numero, "kilos tiene un valor de" ,precio4,  "pero tiene un descuento por valor de",descuento3, "por lo tanto el valor a pagar es:",vt2
+13
+13
+6
+3
+7
+precio3
+15
+numero*manzanas
+3
+dt2
+12
+precio3*0.15
+3
+vt1
+11
+precio3-dt2
+4
+1
+144
+"La compra de" ,numero, "kilos tiene un valor de" ,precio3,  "pero tiene un descuento por valor de",dt2, "por lo tanto el valor a pagar es:",vt1
+13
+13
+6
+3
+7
+precio2
+15
+numero*manzanas
+10
+descuento1
+14
+precio2 * 0.10
+2
+vt
+18
+precio2-descuento1
+4
+1
+150
+"La compra de" ,numero, "kilos tiene un valor de" ,precio2,  "pero tiene un descuento por valor de",descuento1, "por lo tanto el valor a pagar es:",vt
+13
+13
+6
+1
+6
+precio
+17
+numero * manzanas
+4
+1
+144
+"La compra de" ,numero, "kilos tiene un valor de" ,precio,  "pero tiene un descuento por valor de",0, "por lo tanto el valor a pagar es:",precio
+13
+1
